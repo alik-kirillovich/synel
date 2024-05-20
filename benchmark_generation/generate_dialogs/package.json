@@ -1,0 +1,9 @@
+{
+  "name": "dialogs-generator",
+  "author": "Alik Kirillovich <alik.kirillovich@gmail.com>",
+  "dependencies": {
+    "yargs": "*",
+    "axios": "*",
+    "sleep-promise": "*"
+  }
+}

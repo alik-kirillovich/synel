@@ -1,0 +1,13 @@
+{
+  "name": "dbpedia-based-synthetic-dialogs",
+  "author": "Alik Kirillovich <alik.kirillovich@gmail.com>",
+  "dependencies": {
+    "yargs": "*",
+    "ldflex": "*",
+    "@ldflex/comunica": "*",
+    "@ldflex/async-iteration-handlers": "*",
+    "@comunica/query-sparql": "*",
+    "lodash": "*",
+    "sleep-promise": "*"
+  }
+}

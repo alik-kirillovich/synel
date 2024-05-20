@@ -1,0 +1,3999 @@
+[
+  {
+    "name": "Cameco",
+    "uri": "http://dbpedia.org/resource/Cameco",
+    "entities": {
+      "companies": [
+        {
+          "name": "Cameco",
+          "uri": "http://dbpedia.org/resource/Cameco"
+        },
+        {
+          "name": "Uranium Participation Corporation",
+          "uri": "http://dbpedia.org/resource/Uranium_Participation_Corporation"
+        },
+        {
+          "name": "Brookfield Renewable Partners",
+          "uri": "http://dbpedia.org/resource/Brookfield_Renewable_Partners"
+        },
+        {
+          "name": "Bruce Power",
+          "uri": "http://dbpedia.org/resource/Bruce_Power"
+        },
+        {
+          "name": "Centerra Gold",
+          "uri": "http://dbpedia.org/resource/Centerra_Gold"
+        },
+        {
+          "name": "Westinghouse Electric Company",
+          "uri": "http://dbpedia.org/resource/Westinghouse_Electric_Company"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Mining",
+          "uri": "http://dbpedia.org/resource/Mining"
+        },
+        {
+          "name": "Financial services",
+          "uri": "http://dbpedia.org/resource/Financial_services"
+        },
+        {
+          "name": "Renewable power",
+          "uri": "http://dbpedia.org/resource/Renewable_power"
+        },
+        {
+          "name": "Electricity generation",
+          "uri": "http://dbpedia.org/resource/Electricity_generation"
+        },
+        {
+          "name": "Nuclear fuel",
+          "uri": "http://dbpedia.org/resource/Nuclear_fuel"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Saskatchewan",
+          "uri": "http://dbpedia.org/resource/Saskatchewan"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'Cameco', operating in the Mining industry. It is based in Saskatchewan and has 3300 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is transaction dispute resolution. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Uranium Participation Corporation' operating in the Financial services industry, the company called 'Brookfield Renewable Partners' operating in the Renewable power industry, the company called 'Bruce Power' operating in the Electricity generation industry, the company called 'Centerra Gold' operating in the Mining industry, and the company called 'Westinghouse Electric Company' operating in the Nuclear fuel industry. The company's representative is cautious and detail-oriented."
+  },
+  {
+    "name": "CamelBak",
+    "uri": "http://dbpedia.org/resource/CamelBak",
+    "entities": {
+      "companies": [
+        {
+          "name": "CamelBak",
+          "uri": "http://dbpedia.org/resource/CamelBak"
+        },
+        {
+          "name": "Vista Outdoor",
+          "uri": "http://dbpedia.org/resource/Vista_Outdoor"
+        },
+        {
+          "name": "Arctic Cat",
+          "uri": "http://dbpedia.org/resource/Arctic_Cat"
+        },
+        {
+          "name": "Black+Decker",
+          "uri": "http://dbpedia.org/resource/Black+Decker"
+        },
+        {
+          "name": "Irving Place Capital",
+          "uri": "http://dbpedia.org/resource/Irving_Place_Capital"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Sports equipment",
+          "uri": "http://dbpedia.org/resource/Sports_equipment"
+        },
+        {
+          "name": "Shooting sports",
+          "uri": "http://dbpedia.org/resource/Shooting_sports"
+        },
+        {
+          "name": "Powersports",
+          "uri": "http://dbpedia.org/resource/Powersports"
+        },
+        {
+          "name": "Power tools",
+          "uri": "http://dbpedia.org/resource/Power_tools"
+        },
+        {
+          "name": "Private equity",
+          "uri": "http://dbpedia.org/resource/Private_equity"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'CamelBak', operating in the Sports equipment industry. It has 51 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is tax payment assistance. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Vista Outdoor' operating in the Shooting sports industry, the company called 'Arctic Cat' operating in the Powersports industry, the company called 'Black+Decker' operating in the Power tools industry, and the company called 'Irving Place Capital' operating in the Private equity industry. The company's representative is friendly and personable."
+  },
+  {
+    "name": "Camella",
+    "uri": "http://dbpedia.org/resource/Camella",
+    "entities": {
+      "companies": [
+        {
+          "name": "Camella",
+          "uri": "http://dbpedia.org/resource/Camella"
+        },
+        {
+          "name": "Vista Land",
+          "uri": "http://dbpedia.org/resource/Vista_Land"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Real estate",
+          "uri": "http://dbpedia.org/resource/Real_estate"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Camella', operating in the Real estate industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is international transaction assistance. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Vista Land' operating in the Real estate industry. The company's representative is friendly and personable."
+  },
+  {
+    "name": "Camellia (company)",
+    "uri": "http://dbpedia.org/resource/Camellia_(company)",
+    "entities": {
+      "companies": [
+        {
+          "name": "Camellia (company)",
+          "uri": "http://dbpedia.org/resource/Camellia_(company)"
+        },
+        {
+          "name": "Kakuzi Limited",
+          "uri": "http://dbpedia.org/resource/Kakuzi_Limited"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Agriculture",
+          "uri": "http://dbpedia.org/resource/Agriculture"
+        },
+        {
+          "name": "Agricultural",
+          "uri": "http://dbpedia.org/resource/Agricultural"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Camellia (company)', operating in the Agriculture industry. It has 78000 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is business savings account opening. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Kakuzi Limited' operating in the Agricultural industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Camellia Line",
+    "uri": "http://dbpedia.org/resource/Camellia_Line",
+    "entities": {
+      "companies": [
+        {
+          "name": "Camellia Line",
+          "uri": "http://dbpedia.org/resource/Camellia_Line"
+        },
+        {
+          "name": "Mitsubishi Heavy Industries",
+          "uri": "http://dbpedia.org/resource/Mitsubishi_Heavy_Industries"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Shipping industry",
+          "uri": "http://dbpedia.org/resource/Shipping_industry"
+        },
+        {
+          "name": "Defense industry",
+          "uri": "http://dbpedia.org/resource/Defense_industry"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Hakata-ku",
+          "uri": "http://dbpedia.org/resource/Hakata-ku"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'Camellia Line', operating in the Shipping industry industry. It is based in Hakata-ku and has 26 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is international transaction assistance. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Mitsubishi Heavy Industries' operating in the Defense industry industry. The company's representative is analytical and data-driven."
+  },
+  {
+    "name": "Camelot Group",
+    "uri": "http://dbpedia.org/resource/Camelot_Group",
+    "entities": {
+      "companies": [
+        {
+          "name": "Camelot Group",
+          "uri": "http://dbpedia.org/resource/Camelot_Group"
+        },
+        {
+          "name": "International Computers Limited",
+          "uri": "http://dbpedia.org/resource/International_Computers_Limited"
+        },
+        {
+          "name": "An Post",
+          "uri": "http://dbpedia.org/resource/An_Post"
+        },
+        {
+          "name": "Ontario Teachers' Pension Plan",
+          "uri": "http://dbpedia.org/resource/Ontario_Teachers'_Pension_Plan"
+        },
+        {
+          "name": "GTECH Corporation",
+          "uri": "http://dbpedia.org/resource/GTECH_Corporation"
+        },
+        {
+          "name": "Scammell",
+          "uri": "http://dbpedia.org/resource/Scammell"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Lottery",
+          "uri": "http://dbpedia.org/resource/Lottery"
+        },
+        {
+          "name": "Computer software",
+          "uri": "http://dbpedia.org/resource/Computer_software"
+        },
+        {
+          "name": "Courier",
+          "uri": "http://dbpedia.org/resource/Courier"
+        },
+        {
+          "name": "Pension fund",
+          "uri": "http://dbpedia.org/resource/Pension_fund"
+        },
+        {
+          "name": "Automotive industry",
+          "uri": "http://dbpedia.org/resource/Automotive_industry"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Camelot Group', operating in the Lottery industry. It has 1000 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is unauthorized withdrawal investigation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'International Computers Limited' operating in the Computer software industry, the company called 'An Post' operating in the Courier industry, the company called 'Ontario Teachers' Pension Plan' operating in the Pension fund industry, the company called 'GTECH Corporation' operating in the Lottery industry, and the company called 'Scammell' operating in the Automotive industry industry. The company's representative is cautious and detail-oriented."
+  },
+  {
+    "name": "Camelot Music",
+    "uri": "http://dbpedia.org/resource/Camelot_Music",
+    "entities": {
+      "companies": [
+        {
+          "name": "Camelot Music",
+          "uri": "http://dbpedia.org/resource/Camelot_Music"
+        },
+        {
+          "name": "WHSmith",
+          "uri": "http://dbpedia.org/resource/WHSmith"
+        },
+        {
+          "name": "Spec's Music",
+          "uri": "http://dbpedia.org/resource/Spec's_Music"
+        },
+        {
+          "name": "FYE (retailer)",
+          "uri": "http://dbpedia.org/resource/FYE_(retailer)"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Retail",
+          "uri": "http://dbpedia.org/resource/Retail"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Camelot Music', operating in the Retail industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is business credit line application. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'WHSmith' operating in the Retail industry, the company called 'Spec's Music' operating in the Retail industry, and the company called 'FYE (retailer)' operating in the Retail industry. The company's representative is energetic and enthusiastic."
+  },
+  {
+    "name": "Camelot Software Planning",
+    "uri": "http://dbpedia.org/resource/Camelot_Software_Planning",
+    "entities": {
+      "companies": [
+        {
+          "name": "Camelot Software Planning",
+          "uri": "http://dbpedia.org/resource/Camelot_Software_Planning"
+        },
+        {
+          "name": "Capcom",
+          "uri": "http://dbpedia.org/resource/Capcom"
+        },
+        {
+          "name": "Nintendo",
+          "uri": "http://dbpedia.org/resource/Nintendo"
+        },
+        {
+          "name": "Sega",
+          "uri": "http://dbpedia.org/resource/Sega"
+        },
+        {
+          "name": "Climax Entertainment",
+          "uri": "http://dbpedia.org/resource/Climax_Entertainment"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Video game industry",
+          "uri": "http://dbpedia.org/resource/Video_game_industry"
+        },
+        {
+          "name": "Electronics industry",
+          "uri": "http://dbpedia.org/resource/Electronics_industry"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Camelot Software Planning', operating in the Video game industry industry. It has 37 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is ach payment setup. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Capcom' operating in the Video game industry industry, the company called 'Nintendo' operating in the Electronics industry industry, the company called 'Sega' operating in the Video game industry industry, and the company called 'Climax Entertainment' operating in the Video game industry industry. The company's representative is impatient and rushed."
+  },
+  {
+    "name": "Camera Effects",
+    "uri": "http://dbpedia.org/resource/Camera_Effects",
+    "entities": {
+      "companies": [
+        {
+          "name": "Camera Effects",
+          "uri": "http://dbpedia.org/resource/Camera_Effects"
+        },
+        {
+          "name": "Virgin Group",
+          "uri": "http://dbpedia.org/resource/Virgin_Group"
+        },
+        {
+          "name": "Rushes Postproduction",
+          "uri": "http://dbpedia.org/resource/Rushes_Postproduction"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Visual effects",
+          "uri": "http://dbpedia.org/resource/Visual_effects"
+        },
+        {
+          "name": "Conglomerate (company)",
+          "uri": "http://dbpedia.org/resource/Conglomerate_(company)"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Camera Effects', operating in the Visual effects industry. It has 27 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is international transaction assistance. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Virgin Group' operating in the Conglomerate (company) industry and the company called 'Rushes Postproduction' operating in the Visual effects industry. The company's representative is friendly and personable."
+  },
+  {
+    "name": "Camerica",
+    "uri": "http://dbpedia.org/resource/Camerica",
+    "entities": {
+      "companies": [
+        {
+          "name": "Camerica",
+          "uri": "http://dbpedia.org/resource/Camerica"
+        },
+        {
+          "name": "Codemasters",
+          "uri": "http://dbpedia.org/resource/Codemasters"
+        },
+        {
+          "name": "Galoob",
+          "uri": "http://dbpedia.org/resource/Galoob"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Video game",
+          "uri": "http://dbpedia.org/resource/Video_game"
+        },
+        {
+          "name": "Video game industry",
+          "uri": "http://dbpedia.org/resource/Video_game_industry"
+        },
+        {
+          "name": "Consumer electronics",
+          "uri": "http://dbpedia.org/resource/Consumer_electronics"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Camerica', operating in the Video game industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is online banking setup. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Codemasters' operating in the Video game industry industry and the company called 'Galoob' operating in the Consumer electronics industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Cameron Health",
+    "uri": "http://dbpedia.org/resource/Cameron_Health",
+    "entities": {
+      "companies": [
+        {
+          "name": "Cameron Health",
+          "uri": "http://dbpedia.org/resource/Cameron_Health"
+        },
+        {
+          "name": "Boston Scientific",
+          "uri": "http://dbpedia.org/resource/Boston_Scientific"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Medical technology",
+          "uri": "http://dbpedia.org/resource/Medical_technology"
+        },
+        {
+          "name": "Medical device",
+          "uri": "http://dbpedia.org/resource/Medical_device"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Cameron Health', operating in the Medical technology industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is ach payment setup. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Boston Scientific' operating in the Medical device industry. The company's representative is energetic and enthusiastic."
+  },
+  {
+    "name": "Cameron International",
+    "uri": "http://dbpedia.org/resource/Cameron_International",
+    "entities": {
+      "companies": [
+        {
+          "name": "Cameron International",
+          "uri": "http://dbpedia.org/resource/Cameron_International"
+        },
+        {
+          "name": "Rolls-Royce Limited",
+          "uri": "http://dbpedia.org/resource/Rolls-Royce_Limited"
+        },
+        {
+          "name": "Transocean",
+          "uri": "http://dbpedia.org/resource/Transocean"
+        },
+        {
+          "name": "Schlumberger",
+          "uri": "http://dbpedia.org/resource/Schlumberger"
+        },
+        {
+          "name": "OneSubsea",
+          "uri": "http://dbpedia.org/resource/OneSubsea"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Oil well",
+          "uri": "http://dbpedia.org/resource/Oil_well"
+        },
+        {
+          "name": "Manufacturing",
+          "uri": "http://dbpedia.org/resource/Manufacturing"
+        },
+        {
+          "name": "Offshore drilling",
+          "uri": "http://dbpedia.org/resource/Offshore_drilling"
+        },
+        {
+          "name": "Petroleum reservoir",
+          "uri": "http://dbpedia.org/resource/Petroleum_reservoir"
+        },
+        {
+          "name": "Oilfield",
+          "uri": "http://dbpedia.org/resource/Oilfield"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Cameron International', operating in the Oil well industry. It has 23412 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is tax payment assistance. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Rolls-Royce Limited' operating in the Manufacturing industry, the company called 'Transocean' operating in the Offshore drilling industry, the company called 'Schlumberger' operating in the Petroleum reservoir industry, and the company called 'OneSubsea' operating in the Oilfield industry. The company's representative is analytical and data-driven."
+  },
+  {
+    "name": "Camerons Brewery",
+    "uri": "http://dbpedia.org/resource/Camerons_Brewery",
+    "entities": {
+      "companies": [
+        {
+          "name": "Camerons Brewery",
+          "uri": "http://dbpedia.org/resource/Camerons_Brewery"
+        },
+        {
+          "name": "Tolly Cobbold",
+          "uri": "http://dbpedia.org/resource/Tolly_Cobbold"
+        },
+        {
+          "name": "Bass Brewery",
+          "uri": "http://dbpedia.org/resource/Bass_Brewery"
+        },
+        {
+          "name": "Britvic",
+          "uri": "http://dbpedia.org/resource/Britvic"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Brewing",
+          "uri": "http://dbpedia.org/resource/Brewing"
+        },
+        {
+          "name": "Soft drink",
+          "uri": "http://dbpedia.org/resource/Soft_drink"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Camerons Brewery', operating in the Brewing industry. It has 145 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is balance verification request. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Tolly Cobbold' operating in the Brewing industry, the company called 'Bass Brewery' operating in the Brewing industry, and the company called 'Britvic' operating in the Soft drink industry. The company's representative is friendly and personable."
+  },
+  {
+    "name": "Cameroon Airlines",
+    "uri": "http://dbpedia.org/resource/Cameroon_Airlines",
+    "entities": {
+      "companies": [
+        {
+          "name": "Cameroon Airlines",
+          "uri": "http://dbpedia.org/resource/Cameroon_Airlines"
+        },
+        {
+          "name": "Air Afrique",
+          "uri": "http://dbpedia.org/resource/Air_Afrique"
+        },
+        {
+          "name": "Air France",
+          "uri": "http://dbpedia.org/resource/Air_France"
+        },
+        {
+          "name": "Camair-Co",
+          "uri": "http://dbpedia.org/resource/Camair-Co"
+        },
+        {
+          "name": "Brussels Airlines",
+          "uri": "http://dbpedia.org/resource/Brussels_Airlines"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Air Transport",
+          "uri": "http://dbpedia.org/resource/Air_Transport"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Cameroon",
+          "uri": "http://dbpedia.org/resource/Cameroon"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'Cameroon Airlines', operating in the Air Transport industry. It is based in Cameroon. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is fraud alert activation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Air Afrique' operating in the Air Transport industry, the company called 'Air France' operating in the Air Transport industry, the company called 'Camair-Co' operating in the Air Transport industry, and the company called 'Brussels Airlines' operating in the Air Transport industry. The company's representative is pessimistic and negative."
+  },
+  {
+    "name": "Camillo Eitzen & Co",
+    "uri": "http://dbpedia.org/resource/Camillo_Eitzen_&_Co",
+    "entities": {
+      "companies": [
+        {
+          "name": "Camillo Eitzen & Co",
+          "uri": "http://dbpedia.org/resource/Camillo_Eitzen_&_Co"
+        },
+        {
+          "name": "Eitzen Group",
+          "uri": "http://dbpedia.org/resource/Eitzen_Group"
+        },
+        {
+          "name": "Eitzen Chemical",
+          "uri": "http://dbpedia.org/resource/Eitzen_Chemical"
+        },
+        {
+          "name": "Eitzen Maritime Services",
+          "uri": "http://dbpedia.org/resource/Eitzen_Maritime_Services"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Shipping",
+          "uri": "http://dbpedia.org/resource/Shipping"
+        },
+        {
+          "uri": "http://dbpedia.org/resource/Shipping,_Ship_Supply"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Camillo Eitzen & Co', operating in the Shipping industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is account closure process. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Eitzen Group' operating in the Shipping industry, the company called 'Eitzen Chemical' operating in the Shipping industry, and the company called 'Eitzen Maritime Services' operating in the undefined industry. The company's representative is analytical and data-driven."
+  },
+  {
+    "name": "Camlin Fine Sciences",
+    "uri": "http://dbpedia.org/resource/Camlin_Fine_Sciences",
+    "entities": {
+      "companies": [
+        {
+          "name": "Camlin Fine Sciences",
+          "uri": "http://dbpedia.org/resource/Camlin_Fine_Sciences"
+        },
+        {
+          "name": "Kokuyo Camlin",
+          "uri": "http://dbpedia.org/resource/Kokuyo_Camlin"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Speciality chemicals",
+          "uri": "http://dbpedia.org/resource/Speciality_chemicals"
+        },
+        {
+          "name": "Stationery",
+          "uri": "http://dbpedia.org/resource/Stationery"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Camlin Fine Sciences', operating in the Speciality chemicals industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is credit card replacement. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Kokuyo Camlin' operating in the Stationery industry. The company's representative is pessimistic and negative."
+  },
+  {
+    "name": "Cammell Laird",
+    "uri": "http://dbpedia.org/resource/Cammell_Laird",
+    "entities": {
+      "companies": [
+        {
+          "name": "Cammell Laird",
+          "uri": "http://dbpedia.org/resource/Cammell_Laird"
+        },
+        {
+          "name": "A&P Group",
+          "uri": "http://dbpedia.org/resource/A&P_Group"
+        },
+        {
+          "name": "BAE Systems",
+          "uri": "http://dbpedia.org/resource/BAE_Systems"
+        },
+        {
+          "name": "Henry Scarr",
+          "uri": "http://dbpedia.org/resource/Henry_Scarr"
+        },
+        {
+          "name": "Metro-Cammell",
+          "uri": "http://dbpedia.org/resource/Metro-Cammell"
+        },
+        {
+          "name": "Western Ferries",
+          "uri": "http://dbpedia.org/resource/Western_Ferries"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Shipbuilding",
+          "uri": "http://dbpedia.org/resource/Shipbuilding"
+        },
+        {
+          "name": "Marine engineering",
+          "uri": "http://dbpedia.org/resource/Marine_engineering"
+        },
+        {
+          "name": "Information security",
+          "uri": "http://dbpedia.org/resource/Information_security"
+        },
+        {
+          "name": "Railway engineering",
+          "uri": "http://dbpedia.org/resource/Railway_engineering"
+        },
+        {
+          "name": "Transport",
+          "uri": "http://dbpedia.org/resource/Transport"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Cammell Laird', operating in the Shipbuilding industry. It has 550 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is business account upgrade. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'A&P Group' operating in the Marine engineering industry, the company called 'BAE Systems' operating in the Information security industry, the company called 'Henry Scarr' operating in the Shipbuilding industry, the company called 'Metro-Cammell' operating in the Railway engineering industry, and the company called 'Western Ferries' operating in the Transport industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Camp+King",
+    "uri": "http://dbpedia.org/resource/Camp+King",
+    "entities": {
+      "companies": [
+        {
+          "name": "Camp+King",
+          "uri": "http://dbpedia.org/resource/Camp+King"
+        },
+        {
+          "name": "Publicis & Hal Riney",
+          "uri": "http://dbpedia.org/resource/Publicis_&_Hal_Riney"
+        },
+        {
+          "name": "Havas",
+          "uri": "http://dbpedia.org/resource/Havas"
+        },
+        {
+          "name": "Fallon Worldwide",
+          "uri": "http://dbpedia.org/resource/Fallon_Worldwide"
+        },
+        {
+          "name": "Publicis",
+          "uri": "http://dbpedia.org/resource/Publicis"
+        },
+        {
+          "name": "Shaklee",
+          "uri": "http://dbpedia.org/resource/Shaklee"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Marketing",
+          "uri": "http://dbpedia.org/resource/Marketing"
+        },
+        {
+          "name": "Advertising agency",
+          "uri": "http://dbpedia.org/resource/Advertising_agency"
+        },
+        {
+          "name": "Service (economics)",
+          "uri": "http://dbpedia.org/resource/Service_(economics)"
+        },
+        {
+          "name": "Public relations",
+          "uri": "http://dbpedia.org/resource/Public_relations"
+        },
+        {
+          "name": "Wellness (alternative medicine)",
+          "uri": "http://dbpedia.org/resource/Wellness_(alternative_medicine)"
+        }
+      ],
+      "locations": [
+        {
+          "name": "San Francisco",
+          "uri": "http://dbpedia.org/resource/San_Francisco"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'Camp+King', operating in the Marketing industry. It is based in San Francisco. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is loan application consultation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Publicis & Hal Riney' operating in the Advertising agency industry, the company called 'Havas' operating in the Service (economics) industry, the company called 'Fallon Worldwide' operating in the Advertising agency industry, the company called 'Publicis' operating in the Public relations industry, and the company called 'Shaklee' operating in the Wellness (alternative medicine) industry. The company's representative is analytical and data-driven."
+  },
+  {
+    "name": "Campagna Motors",
+    "uri": "http://dbpedia.org/resource/Campagna_Motors",
+    "entities": {
+      "companies": [
+        {
+          "name": "Campagna Motors",
+          "uri": "http://dbpedia.org/resource/Campagna_Motors"
+        },
+        {
+          "name": "BMW",
+          "uri": "http://dbpedia.org/resource/BMW"
+        },
+        {
+          "name": "Zero Motorcycles",
+          "uri": "http://dbpedia.org/resource/Zero_Motorcycles"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Automotive",
+          "uri": "http://dbpedia.org/resource/Automotive"
+        },
+        {
+          "name": "Automotive industry",
+          "uri": "http://dbpedia.org/resource/Automotive_industry"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Campagna Motors', operating in the Automotive industry. It has 23 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is transaction dispute resolution. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'BMW' operating in the Automotive industry industry and the company called 'Zero Motorcycles' operating in the Automotive industry industry. The company's representative is impatient and rushed."
+  },
+  {
+    "name": "Campagnolo",
+    "uri": "http://dbpedia.org/resource/Campagnolo",
+    "entities": {
+      "companies": [
+        {
+          "name": "Campagnolo",
+          "uri": "http://dbpedia.org/resource/Campagnolo"
+        },
+        {
+          "name": "Alfa Romeo",
+          "uri": "http://dbpedia.org/resource/Alfa_Romeo"
+        },
+        {
+          "name": "Ferrari",
+          "uri": "http://dbpedia.org/resource/Ferrari"
+        },
+        {
+          "name": "Maserati",
+          "uri": "http://dbpedia.org/resource/Maserati"
+        },
+        {
+          "name": "Lamborghini",
+          "uri": "http://dbpedia.org/resource/Lamborghini"
+        },
+        {
+          "name": "Innocenti",
+          "uri": "http://dbpedia.org/resource/Innocenti"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Cycling",
+          "uri": "http://dbpedia.org/resource/Cycling"
+        },
+        {
+          "name": "Automotive industry",
+          "uri": "http://dbpedia.org/resource/Automotive_industry"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Campagnolo', operating in the Cycling industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is business credit line application. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Alfa Romeo' operating in the Automotive industry industry, the company called 'Ferrari' operating in the Automotive industry industry, the company called 'Maserati' operating in the Automotive industry industry, the company called 'Lamborghini' operating in the Automotive industry industry, and the company called 'Innocenti' operating in the Automotive industry industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Campaigns & Grey",
+    "uri": "http://dbpedia.org/resource/Campaigns_&_Grey",
+    "entities": {
+      "companies": [
+        {
+          "name": "Campaigns & Grey",
+          "uri": "http://dbpedia.org/resource/Campaigns_&_Grey"
+        },
+        {
+          "name": "Grey Global Group",
+          "uri": "http://dbpedia.org/resource/Grey_Global_Group"
+        },
+        {
+          "name": "Universal Robina",
+          "uri": "http://dbpedia.org/resource/Universal_Robina"
+        },
+        {
+          "name": "Sun Cellular",
+          "uri": "http://dbpedia.org/resource/Sun_Cellular"
+        },
+        {
+          "name": "Wyeth",
+          "uri": "http://dbpedia.org/resource/Wyeth"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Advertising",
+          "uri": "http://dbpedia.org/resource/Advertising"
+        },
+        {
+          "name": "Marketing",
+          "uri": "http://dbpedia.org/resource/Marketing"
+        },
+        {
+          "name": "Manufacturing",
+          "uri": "http://dbpedia.org/resource/Manufacturing"
+        },
+        {
+          "name": "Telecommunication",
+          "uri": "http://dbpedia.org/resource/Telecommunication"
+        },
+        {
+          "name": "Pharmaceuticals",
+          "uri": "http://dbpedia.org/resource/Pharmaceuticals"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Campaigns & Grey', operating in the Advertising industry. It has 80 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is transaction dispute resolution. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Grey Global Group' operating in the Marketing industry, the company called 'Universal Robina' operating in the Manufacturing industry, the company called 'Sun Cellular' operating in the Telecommunication industry, and the company called 'Wyeth' operating in the Pharmaceuticals industry. The company's representative is pessimistic and negative."
+  },
+  {
+    "name": "Campari Group",
+    "uri": "http://dbpedia.org/resource/Campari_Group",
+    "entities": {
+      "companies": [
+        {
+          "name": "Campari Group",
+          "uri": "http://dbpedia.org/resource/Campari_Group"
+        },
+        {
+          "name": "Pernod Ricard",
+          "uri": "http://dbpedia.org/resource/Pernod_Ricard"
+        },
+        {
+          "name": "Diageo",
+          "uri": "http://dbpedia.org/resource/Diageo"
+        },
+        {
+          "name": "Allied Domecq",
+          "uri": "http://dbpedia.org/resource/Allied_Domecq"
+        },
+        {
+          "name": "Cabo Wabo",
+          "uri": "http://dbpedia.org/resource/Cabo_Wabo"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Drink",
+          "uri": "http://dbpedia.org/resource/Drink"
+        },
+        {
+          "name": "Alcohol industry",
+          "uri": "http://dbpedia.org/resource/Alcohol_industry"
+        },
+        {
+          "name": "Drink industry",
+          "uri": "http://dbpedia.org/resource/Drink_industry"
+        },
+        {
+          "name": "Bar (establishment)",
+          "uri": "http://dbpedia.org/resource/Bar_(establishment)"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Campari Group', operating in the Drink industry. It has 3784 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is account opening inquiry. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Pernod Ricard' operating in the Alcohol industry industry, the company called 'Diageo' operating in the Drink industry industry, the company called 'Allied Domecq' operating in the Drink industry, and the company called 'Cabo Wabo' operating in the Bar (establishment) industry. The company's representative is friendly and personable."
+  },
+  {
+    "name": "Campbell Ewald",
+    "uri": "http://dbpedia.org/resource/Campbell_Ewald",
+    "entities": {
+      "companies": [
+        {
+          "name": "Campbell Ewald",
+          "uri": "http://dbpedia.org/resource/Campbell_Ewald"
+        },
+        {
+          "name": "Chevrolet",
+          "uri": "http://dbpedia.org/resource/Chevrolet"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Marketing Communications",
+          "uri": "http://dbpedia.org/resource/Marketing_Communications"
+        },
+        {
+          "name": "Automotive industry",
+          "uri": "http://dbpedia.org/resource/Automotive_industry"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Campbell Ewald', operating in the Marketing Communications industry. It has 500 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is business savings account opening. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Chevrolet' operating in the Automotive industry industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Campbell Soup Company",
+    "uri": "http://dbpedia.org/resource/Campbell_Soup_Company",
+    "entities": {
+      "companies": [
+        {
+          "name": "Campbell Soup Company",
+          "uri": "http://dbpedia.org/resource/Campbell_Soup_Company"
+        },
+        {
+          "name": "Lance Inc.",
+          "uri": "http://dbpedia.org/resource/Lance_Inc."
+        },
+        {
+          "name": "Kohlberg Kravis Roberts",
+          "uri": "http://dbpedia.org/resource/Kohlberg_Kravis_Roberts"
+        },
+        {
+          "name": "Snyder's-Lance",
+          "uri": "http://dbpedia.org/resource/Snyder's-Lance"
+        },
+        {
+          "name": "Arnott's Biscuits",
+          "uri": "http://dbpedia.org/resource/Arnott's_Biscuits"
+        },
+        {
+          "name": "Pace Foods",
+          "uri": "http://dbpedia.org/resource/Pace_Foods"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Food processing",
+          "uri": "http://dbpedia.org/resource/Food_processing"
+        },
+        {
+          "name": "Food industry",
+          "uri": "http://dbpedia.org/resource/Food_industry"
+        },
+        {
+          "name": "Private equity",
+          "uri": "http://dbpedia.org/resource/Private_equity"
+        },
+        {
+          "name": "Biscuits",
+          "uri": "http://dbpedia.org/resource/Biscuits"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Campbell Soup Company', operating in the Food processing industry. It has 19000 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is tax payment assistance. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Lance Inc.' operating in the Food industry industry, the company called 'Kohlberg Kravis Roberts' operating in the Private equity industry, the company called 'Snyder's-Lance' operating in the Food industry industry, the company called 'Arnott's Biscuits' operating in the Biscuits industry, and the company called 'Pace Foods' operating in the Food industry industry. The company's representative is impatient and rushed."
+  },
+  {
+    "name": "Camperdown Dairy International",
+    "uri": "http://dbpedia.org/resource/Camperdown_Dairy_International",
+    "entities": {
+      "companies": [
+        {
+          "name": "Camperdown Dairy International",
+          "uri": "http://dbpedia.org/resource/Camperdown_Dairy_International"
+        },
+        {
+          "name": "Bellamy's Organic",
+          "uri": "http://dbpedia.org/resource/Bellamy's_Organic"
+        },
+        {
+          "name": "Vero Insurance",
+          "uri": "http://dbpedia.org/resource/Vero_Insurance"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Infant formula",
+          "uri": "http://dbpedia.org/resource/Infant_formula"
+        },
+        {
+          "name": "Food",
+          "uri": "http://dbpedia.org/resource/Food"
+        },
+        {
+          "name": "General insurance",
+          "uri": "http://dbpedia.org/resource/General_insurance"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Camperdown Dairy International', operating in the Infant formula industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is balance verification request. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Bellamy's Organic' operating in the Food industry and the company called 'Vero Insurance' operating in the General insurance industry. The company's representative is impatient and rushed."
+  },
+  {
+    "name": "Campina (company)",
+    "uri": "http://dbpedia.org/resource/Campina_(company)",
+    "entities": {
+      "companies": [
+        {
+          "name": "Campina (company)",
+          "uri": "http://dbpedia.org/resource/Campina_(company)"
+        },
+        {
+          "name": "FrieslandCampina",
+          "uri": "http://dbpedia.org/resource/FrieslandCampina"
+        },
+        {
+          "name": "Arla Foods",
+          "uri": "http://dbpedia.org/resource/Arla_Foods"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Dairy",
+          "uri": "http://dbpedia.org/resource/Dairy"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Campina (company)', operating in the Dairy industry. It has 7099 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is balance verification request. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'FrieslandCampina' operating in the Dairy industry and the company called 'Arla Foods' operating in the Dairy industry. The company's representative is analytical and data-driven."
+  },
+  {
+    "name": "Camping World",
+    "uri": "http://dbpedia.org/resource/Camping_World",
+    "entities": {
+      "companies": [
+        {
+          "name": "Camping World",
+          "uri": "http://dbpedia.org/resource/Camping_World"
+        },
+        {
+          "name": "Good Sam Enterprises",
+          "uri": "http://dbpedia.org/resource/Good_Sam_Enterprises"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Retail",
+          "uri": "http://dbpedia.org/resource/Retail"
+        },
+        {
+          "name": "Recreational vehicle",
+          "uri": "http://dbpedia.org/resource/Recreational_vehicle"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Camping World', operating in the Retail industry. It has 11835 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is overdraft protection inquiry. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Good Sam Enterprises' operating in the Recreational vehicle industry. The company's representative is cautious and detail-oriented."
+  },
+  {
+    "name": "Campingaz",
+    "uri": "http://dbpedia.org/resource/Campingaz",
+    "entities": {
+      "companies": [
+        {
+          "name": "Campingaz",
+          "uri": "http://dbpedia.org/resource/Campingaz"
+        },
+        {
+          "name": "Newell Brands",
+          "uri": "http://dbpedia.org/resource/Newell_Brands"
+        },
+        {
+          "name": "Jarden",
+          "uri": "http://dbpedia.org/resource/Jarden"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Outdoor recreation",
+          "uri": "http://dbpedia.org/resource/Outdoor_recreation"
+        },
+        {
+          "name": "Final good",
+          "uri": "http://dbpedia.org/resource/Final_good"
+        },
+        {
+          "name": "Consumer goods",
+          "uri": "http://dbpedia.org/resource/Consumer_goods"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Campingaz', operating in the Outdoor recreation industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is mobile banking app troubleshooting. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Newell Brands' operating in the Final good industry and the company called 'Jarden' operating in the Consumer goods industry. The company's representative is friendly and personable."
+  },
+  {
+    "name": "Campo Santo (company)",
+    "uri": "http://dbpedia.org/resource/Campo_Santo_(company)",
+    "entities": {
+      "companies": [
+        {
+          "name": "Campo Santo (company)",
+          "uri": "http://dbpedia.org/resource/Campo_Santo_(company)"
+        },
+        {
+          "name": "Ford Motor Company",
+          "uri": "http://dbpedia.org/resource/Ford_Motor_Company"
+        },
+        {
+          "name": "Valve Corporation",
+          "uri": "http://dbpedia.org/resource/Valve_Corporation"
+        },
+        {
+          "name": "Good Universe",
+          "uri": "http://dbpedia.org/resource/Good_Universe"
+        },
+        {
+          "name": "Panic Inc.",
+          "uri": "http://dbpedia.org/resource/Panic_Inc."
+        },
+        {
+          "name": "Telltale Games",
+          "uri": "http://dbpedia.org/resource/Telltale_Games"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Video game industry",
+          "uri": "http://dbpedia.org/resource/Video_game_industry"
+        },
+        {
+          "name": "Automotive industry",
+          "uri": "http://dbpedia.org/resource/Automotive_industry"
+        },
+        {
+          "name": "Digital distribution",
+          "uri": "http://dbpedia.org/resource/Digital_distribution"
+        },
+        {
+          "name": "Film industry",
+          "uri": "http://dbpedia.org/resource/Film_industry"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Campo Santo (company)', operating in the Video game industry industry. It has 12 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is account closure process. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Ford Motor Company' operating in the Automotive industry industry, the company called 'Valve Corporation' operating in the Digital distribution industry, the company called 'Good Universe' operating in the Film industry industry, the company called 'Panic Inc.' operating in the Video game industry industry, and the company called 'Telltale Games' operating in the Video game industry industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Campofrío Food Group",
+    "uri": "http://dbpedia.org/resource/Campofrío_Food_Group",
+    "entities": {
+      "companies": [
+        {
+          "name": "Campofrío Food Group",
+          "uri": "http://dbpedia.org/resource/Campofrío_Food_Group"
+        },
+        {
+          "name": "San Miguel Corporation",
+          "uri": "http://dbpedia.org/resource/San_Miguel_Corporation"
+        },
+        {
+          "name": "ALFA (Mexico)",
+          "uri": "http://dbpedia.org/resource/ALFA_(Mexico)"
+        },
+        {
+          "name": "Smithfield Foods",
+          "uri": "http://dbpedia.org/resource/Smithfield_Foods"
+        },
+        {
+          "name": "Hormel Foods",
+          "uri": "http://dbpedia.org/resource/Hormel_Foods"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Food processing",
+          "uri": "http://dbpedia.org/resource/Food_processing"
+        },
+        {
+          "name": "Conglomerate (company)",
+          "uri": "http://dbpedia.org/resource/Conglomerate_(company)"
+        },
+        {
+          "name": "Meat industry",
+          "uri": "http://dbpedia.org/resource/Meat_industry"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Campofrío Food Group', operating in the Food processing industry. It has 19700 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is ach payment setup. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'San Miguel Corporation' operating in the Conglomerate (company) industry, the company called 'ALFA (Mexico)' operating in the Conglomerate (company) industry, the company called 'Smithfield Foods' operating in the Meat industry industry, and the company called 'Hormel Foods' operating in the Food processing industry. The company's representative is impatient and rushed."
+  },
+  {
+    "name": "Campsa",
+    "uri": "http://dbpedia.org/resource/Campsa",
+    "entities": {
+      "companies": [
+        {
+          "name": "Campsa",
+          "uri": "http://dbpedia.org/resource/Campsa"
+        },
+        {
+          "name": "BP",
+          "uri": "http://dbpedia.org/resource/BP"
+        },
+        {
+          "name": "Repsol",
+          "uri": "http://dbpedia.org/resource/Repsol"
+        },
+        {
+          "name": "Cepsa",
+          "uri": "http://dbpedia.org/resource/Cepsa"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Petroleum industry",
+          "uri": "http://dbpedia.org/resource/Petroleum_industry"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Campsa', operating in the Petroleum industry industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is international transaction assistance. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'BP' operating in the Petroleum industry industry, the company called 'Repsol' operating in the Petroleum industry industry, and the company called 'Cepsa' operating in the Petroleum industry industry. The company's representative is pessimistic and negative."
+  },
+  {
+    "name": "Campus MovieFest",
+    "uri": "http://dbpedia.org/resource/Campus_MovieFest",
+    "entities": {
+      "companies": [
+        {
+          "name": "Campus MovieFest",
+          "uri": "http://dbpedia.org/resource/Campus_MovieFest"
+        },
+        {
+          "name": "Google",
+          "uri": "http://dbpedia.org/resource/Google"
+        },
+        {
+          "name": "AT&T",
+          "uri": "http://dbpedia.org/resource/AT&T"
+        },
+        {
+          "name": "Panasonic",
+          "uri": "http://dbpedia.org/resource/Panasonic"
+        },
+        {
+          "name": "Sennheiser",
+          "uri": "http://dbpedia.org/resource/Sennheiser"
+        },
+        {
+          "name": "Virgin America",
+          "uri": "http://dbpedia.org/resource/Virgin_America"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Film Festival",
+          "uri": "http://dbpedia.org/resource/Film_Festival"
+        },
+        {
+          "name": "Cloud computing",
+          "uri": "http://dbpedia.org/resource/Cloud_computing"
+        },
+        {
+          "name": "Telecommunications industry",
+          "uri": "http://dbpedia.org/resource/Telecommunications_industry"
+        },
+        {
+          "name": "Conglomerate (company)",
+          "uri": "http://dbpedia.org/resource/Conglomerate_(company)"
+        },
+        {
+          "name": "Audio electronics",
+          "uri": "http://dbpedia.org/resource/Audio_electronics"
+        },
+        {
+          "name": "Air Transport",
+          "uri": "http://dbpedia.org/resource/Air_Transport"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Campus MovieFest', operating in the Film Festival industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is balance verification request. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Google' operating in the Cloud computing industry, the company called 'AT&T' operating in the Telecommunications industry industry, the company called 'Panasonic' operating in the Conglomerate (company) industry, the company called 'Sennheiser' operating in the Audio electronics industry, and the company called 'Virgin America' operating in the Air Transport industry. The company's representative is pessimistic and negative."
+  },
+  {
+    "name": "Camurus",
+    "uri": "http://dbpedia.org/resource/Camurus",
+    "entities": {
+      "companies": [
+        {
+          "name": "Camurus",
+          "uri": "http://dbpedia.org/resource/Camurus"
+        },
+        {
+          "name": "Novartis",
+          "uri": "http://dbpedia.org/resource/Novartis"
+        },
+        {
+          "name": "Colgate-Palmolive",
+          "uri": "http://dbpedia.org/resource/Colgate-Palmolive"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Pharmaceutical industry",
+          "uri": "http://dbpedia.org/resource/Pharmaceutical_industry"
+        },
+        {
+          "name": "Fast-moving consumer goods",
+          "uri": "http://dbpedia.org/resource/Fast-moving_consumer_goods"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Camurus', operating in the Pharmaceutical industry industry. It has 64 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is credit card replacement. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Novartis' operating in the Pharmaceutical industry industry and the company called 'Colgate-Palmolive' operating in the Fast-moving consumer goods industry. The company's representative is impatient and rushed."
+  },
+  {
+    "name": "Can-Am Off-Road",
+    "uri": "http://dbpedia.org/resource/Can-Am_Off-Road",
+    "entities": {
+      "companies": [
+        {
+          "name": "Can-Am Off-Road",
+          "uri": "http://dbpedia.org/resource/Can-Am_Off-Road"
+        },
+        {
+          "name": "Rotax",
+          "uri": "http://dbpedia.org/resource/Rotax"
+        }
+      ],
+      "industries": [
+        {
+          "name": "List of Bombardier recreational and snow vehicles",
+          "uri": "http://dbpedia.org/resource/List_of_Bombardier_recreational_and_snow_vehicles"
+        },
+        {
+          "name": "Mechanical engineering",
+          "uri": "http://dbpedia.org/resource/Mechanical_engineering"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Can-Am Off-Road', operating in the List of Bombardier recreational and snow vehicles industry. It has 8300 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is balance verification request. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Rotax' operating in the Mechanical engineering industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "CanDeal",
+    "uri": "http://dbpedia.org/resource/CanDeal",
+    "entities": {
+      "companies": [
+        {
+          "name": "CanDeal",
+          "uri": "http://dbpedia.org/resource/CanDeal"
+        },
+        {
+          "name": "TMX Group",
+          "uri": "http://dbpedia.org/resource/TMX_Group"
+        },
+        {
+          "name": "Toronto-Dominion Bank",
+          "uri": "http://dbpedia.org/resource/Toronto-Dominion_Bank"
+        },
+        {
+          "name": "Bank of Montreal",
+          "uri": "http://dbpedia.org/resource/Bank_of_Montreal"
+        },
+        {
+          "name": "Canadian Imperial Bank of Commerce",
+          "uri": "http://dbpedia.org/resource/Canadian_Imperial_Bank_of_Commerce"
+        },
+        {
+          "name": "National Bank of Canada",
+          "uri": "http://dbpedia.org/resource/National_Bank_of_Canada"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Financial",
+          "uri": "http://dbpedia.org/resource/Financial"
+        },
+        {
+          "name": "Financial services",
+          "uri": "http://dbpedia.org/resource/Financial_services"
+        },
+        {
+          "name": "Banking",
+          "uri": "http://dbpedia.org/resource/Banking"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'CanDeal', operating in the Financial industry. It has 50 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is fraud alert activation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'TMX Group' operating in the Financial services industry, the company called 'Toronto-Dominion Bank' operating in the Financial services industry, the company called 'Bank of Montreal' operating in the Financial services industry, the company called 'Canadian Imperial Bank of Commerce' operating in the Financial services industry, and the company called 'National Bank of Canada' operating in the Banking industry. The company's representative is friendly and personable."
+  },
+  {
+    "name": "CanJet",
+    "uri": "http://dbpedia.org/resource/CanJet",
+    "entities": {
+      "companies": [
+        {
+          "name": "CanJet",
+          "uri": "http://dbpedia.org/resource/CanJet"
+        },
+        {
+          "name": "Air Transat",
+          "uri": "http://dbpedia.org/resource/Air_Transat"
+        },
+        {
+          "name": "United Airlines",
+          "uri": "http://dbpedia.org/resource/United_Airlines"
+        },
+        {
+          "name": "Canada 3000",
+          "uri": "http://dbpedia.org/resource/Canada_3000"
+        },
+        {
+          "name": "Lufthansa",
+          "uri": "http://dbpedia.org/resource/Lufthansa"
+        },
+        {
+          "name": "Harmony Airways",
+          "uri": "http://dbpedia.org/resource/Harmony_Airways"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Air Transport",
+          "uri": "http://dbpedia.org/resource/Air_Transport"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Nova Scotia",
+          "uri": "http://dbpedia.org/resource/Nova_Scotia"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'CanJet', operating in the Air Transport industry. It is based in Nova Scotia. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is balance verification request. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Air Transat' operating in the Air Transport industry, the company called 'United Airlines' operating in the Air Transport industry, the company called 'Canada 3000' operating in the Air Transport industry, the company called 'Lufthansa' operating in the Air Transport industry, and the company called 'Harmony Airways' operating in the Air Transport industry. The company's representative is analytical and data-driven."
+  },
+  {
+    "name": "CanWest Air",
+    "uri": "http://dbpedia.org/resource/CanWest_Air",
+    "entities": {
+      "companies": [
+        {
+          "name": "CanWest Air",
+          "uri": "http://dbpedia.org/resource/CanWest_Air"
+        },
+        {
+          "name": "Air Mikisew",
+          "uri": "http://dbpedia.org/resource/Air_Mikisew"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Air Transport",
+          "uri": "http://dbpedia.org/resource/Air_Transport"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Alberta",
+          "uri": "http://dbpedia.org/resource/Alberta"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'CanWest Air', operating in the Air Transport industry. It is based in Alberta. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is account opening inquiry. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Air Mikisew' operating in the Air Transport industry. The company's representative is impatient and rushed."
+  },
+  {
+    "name": "Canaan Fair Trade",
+    "uri": "http://dbpedia.org/resource/Canaan_Fair_Trade",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canaan Fair Trade",
+          "uri": "http://dbpedia.org/resource/Canaan_Fair_Trade"
+        },
+        {
+          "name": "Palestine Fair Trade Association",
+          "uri": "http://dbpedia.org/resource/Palestine_Fair_Trade_Association"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Fair trade",
+          "uri": "http://dbpedia.org/resource/Fair_trade"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canaan Fair Trade', operating in the Fair trade industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is unauthorized withdrawal investigation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Palestine Fair Trade Association' operating in the Fair trade industry. The company's representative is friendly and personable."
+  },
+  {
+    "name": "Canaccord Genuity",
+    "uri": "http://dbpedia.org/resource/Canaccord_Genuity",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canaccord Genuity",
+          "uri": "http://dbpedia.org/resource/Canaccord_Genuity"
+        },
+        {
+          "name": "Glencore",
+          "uri": "http://dbpedia.org/resource/Glencore"
+        },
+        {
+          "name": "Bell Canada",
+          "uri": "http://dbpedia.org/resource/Bell_Canada"
+        },
+        {
+          "name": "Bain Capital",
+          "uri": "http://dbpedia.org/resource/Bain_Capital"
+        },
+        {
+          "name": "Schroders",
+          "uri": "http://dbpedia.org/resource/Schroders"
+        },
+        {
+          "name": "CIBC World Markets",
+          "uri": "http://dbpedia.org/resource/CIBC_World_Markets"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Financial services",
+          "uri": "http://dbpedia.org/resource/Financial_services"
+        },
+        {
+          "name": "Mining",
+          "uri": "http://dbpedia.org/resource/Mining"
+        },
+        {
+          "name": "Telecommunication",
+          "uri": "http://dbpedia.org/resource/Telecommunication"
+        },
+        {
+          "name": "Alternative investment",
+          "uri": "http://dbpedia.org/resource/Alternative_investment"
+        },
+        {
+          "name": "Investment management",
+          "uri": "http://dbpedia.org/resource/Investment_management"
+        },
+        {
+          "name": "Investment banking",
+          "uri": "http://dbpedia.org/resource/Investment_banking"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canaccord Genuity', operating in the Financial services industry. It has 2587 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is financial planning consultation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Glencore' operating in the Mining industry, the company called 'Bell Canada' operating in the Telecommunication industry, the company called 'Bain Capital' operating in the Alternative investment industry, the company called 'Schroders' operating in the Investment management industry, and the company called 'CIBC World Markets' operating in the Investment banking industry. The company's representative is cautious and detail-oriented."
+  },
+  {
+    "name": "Canad Inns",
+    "uri": "http://dbpedia.org/resource/Canad_Inns",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canad Inns",
+          "uri": "http://dbpedia.org/resource/Canad_Inns"
+        },
+        {
+          "name": "Radisson Hotels",
+          "uri": "http://dbpedia.org/resource/Radisson_Hotels"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Tourism",
+          "uri": "http://dbpedia.org/resource/Tourism"
+        },
+        {
+          "name": "Hospitality",
+          "uri": "http://dbpedia.org/resource/Hospitality"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canad Inns', operating in the Tourism industry. It has 3500 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is ach payment setup. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Radisson Hotels' operating in the Hospitality industry. The company's representative is analytical and data-driven."
+  },
+  {
+    "name": "Canada (company)",
+    "uri": "http://dbpedia.org/resource/Canada_(company)",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canada (company)",
+          "uri": "http://dbpedia.org/resource/Canada_(company)"
+        },
+        {
+          "name": "Louis Vuitton",
+          "uri": "http://dbpedia.org/resource/Louis_Vuitton"
+        },
+        {
+          "name": "Mercedes-Benz",
+          "uri": "http://dbpedia.org/resource/Mercedes-Benz"
+        },
+        {
+          "name": "Apple Inc.",
+          "uri": "http://dbpedia.org/resource/Apple_Inc."
+        },
+        {
+          "name": "The Coca-Cola Company",
+          "uri": "http://dbpedia.org/resource/The_Coca-Cola_Company"
+        },
+        {
+          "name": "IKEA",
+          "uri": "http://dbpedia.org/resource/IKEA"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Visual arts",
+          "uri": "http://dbpedia.org/resource/Visual_arts"
+        },
+        {
+          "name": "Fashion industry",
+          "uri": "http://dbpedia.org/resource/Fashion_industry"
+        },
+        {
+          "name": "Automotive industry",
+          "uri": "http://dbpedia.org/resource/Automotive_industry"
+        },
+        {
+          "name": "Online services",
+          "uri": "http://dbpedia.org/resource/Online_services"
+        },
+        {
+          "name": "Drink industry",
+          "uri": "http://dbpedia.org/resource/Drink_industry"
+        },
+        {
+          "name": "Retail",
+          "uri": "http://dbpedia.org/resource/Retail"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canada (company)', operating in the Visual arts industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is credit card replacement. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Louis Vuitton' operating in the Fashion industry industry, the company called 'Mercedes-Benz' operating in the Automotive industry industry, the company called 'Apple Inc.' operating in the Online services industry, the company called 'The Coca-Cola Company' operating in the Drink industry industry, and the company called 'IKEA' operating in the Retail industry. The company's representative is energetic and enthusiastic."
+  },
+  {
+    "name": "Canada 3000",
+    "uri": "http://dbpedia.org/resource/Canada_3000",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canada 3000",
+          "uri": "http://dbpedia.org/resource/Canada_3000"
+        },
+        {
+          "name": "Aero Fiesta Mexicana",
+          "uri": "http://dbpedia.org/resource/Aero_Fiesta_Mexicana"
+        },
+        {
+          "name": "Air Canada",
+          "uri": "http://dbpedia.org/resource/Air_Canada"
+        },
+        {
+          "name": "Air Tahiti Nui",
+          "uri": "http://dbpedia.org/resource/Air_Tahiti_Nui"
+        },
+        {
+          "name": "Air Transat",
+          "uri": "http://dbpedia.org/resource/Air_Transat"
+        },
+        {
+          "name": "CanJet",
+          "uri": "http://dbpedia.org/resource/CanJet"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Air Transport",
+          "uri": "http://dbpedia.org/resource/Air_Transport"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Montreal",
+          "uri": "http://dbpedia.org/resource/Montreal"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'Canada 3000', operating in the Air Transport industry. It is based in Montreal. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is account closure process. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Aero Fiesta Mexicana' operating in the Air Transport industry, the company called 'Air Canada' operating in the Air Transport industry, the company called 'Air Tahiti Nui' operating in the Air Transport industry, the company called 'Air Transat' operating in the Air Transport industry, and the company called 'CanJet' operating in the Air Transport industry. The company's representative is impatient and rushed."
+  },
+  {
+    "name": "Canada Bread",
+    "uri": "http://dbpedia.org/resource/Canada_Bread",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canada Bread",
+          "uri": "http://dbpedia.org/resource/Canada_Bread"
+        },
+        {
+          "name": "George Weston Limited",
+          "uri": "http://dbpedia.org/resource/George_Weston_Limited"
+        },
+        {
+          "name": "Sobeys",
+          "uri": "http://dbpedia.org/resource/Sobeys"
+        },
+        {
+          "name": "Grupo Bimbo",
+          "uri": "http://dbpedia.org/resource/Grupo_Bimbo"
+        },
+        {
+          "name": "Maple Leaf Foods",
+          "uri": "http://dbpedia.org/resource/Maple_Leaf_Foods"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Bread",
+          "uri": "http://dbpedia.org/resource/Bread"
+        },
+        {
+          "name": "Food processing",
+          "uri": "http://dbpedia.org/resource/Food_processing"
+        },
+        {
+          "name": "Retail",
+          "uri": "http://dbpedia.org/resource/Retail"
+        },
+        {
+          "name": "Food packaging",
+          "uri": "http://dbpedia.org/resource/Food_packaging"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canada Bread', operating in the Bread industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is unauthorized withdrawal investigation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'George Weston Limited' operating in the Food processing industry, the company called 'Sobeys' operating in the Retail industry, the company called 'Grupo Bimbo' operating in the Food processing industry, and the company called 'Maple Leaf Foods' operating in the Food packaging industry. The company's representative is analytical and data-driven."
+  },
+  {
+    "name": "Canada Company",
+    "uri": "http://dbpedia.org/resource/Canada_Company",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canada Company",
+          "uri": "http://dbpedia.org/resource/Canada_Company"
+        },
+        {
+          "name": "Cocks Biddulph",
+          "uri": "http://dbpedia.org/resource/Cocks_Biddulph"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Land development",
+          "uri": "http://dbpedia.org/resource/Land_development"
+        },
+        {
+          "name": "Banking",
+          "uri": "http://dbpedia.org/resource/Banking"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canada Company', operating in the Land development industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is balance verification request. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Cocks Biddulph' operating in the Banking industry. The company's representative is friendly and personable."
+  },
+  {
+    "name": "Canada Drives",
+    "uri": "http://dbpedia.org/resource/Canada_Drives",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canada Drives",
+          "uri": "http://dbpedia.org/resource/Canada_Drives"
+        },
+        {
+          "name": "Deloitte",
+          "uri": "http://dbpedia.org/resource/Deloitte"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Automotive",
+          "uri": "http://dbpedia.org/resource/Automotive"
+        },
+        {
+          "name": "Professional services",
+          "uri": "http://dbpedia.org/resource/Professional_services"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canada Drives', operating in the Automotive industry. It has 700 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is merchant services setup. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Deloitte' operating in the Professional services industry. The company's representative is energetic and enthusiastic."
+  },
+  {
+    "name": "Canada Dry Motts",
+    "uri": "http://dbpedia.org/resource/Canada_Dry_Motts",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canada Dry Motts",
+          "uri": "http://dbpedia.org/resource/Canada_Dry_Motts"
+        },
+        {
+          "name": "Dr Pepper Snapple Group",
+          "uri": "http://dbpedia.org/resource/Dr_Pepper_Snapple_Group"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Beverage",
+          "uri": "http://dbpedia.org/resource/Beverage"
+        },
+        {
+          "name": "Drink industry",
+          "uri": "http://dbpedia.org/resource/Drink_industry"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canada Dry Motts', operating in the Beverage industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is international transaction assistance. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Dr Pepper Snapple Group' operating in the Drink industry industry. The company's representative is impatient and rushed."
+  },
+  {
+    "name": "Canada Jetlines",
+    "uri": "http://dbpedia.org/resource/Canada_Jetlines",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canada Jetlines",
+          "uri": "http://dbpedia.org/resource/Canada_Jetlines"
+        },
+        {
+          "name": "Avianca",
+          "uri": "http://dbpedia.org/resource/Avianca"
+        },
+        {
+          "name": "EasyJet",
+          "uri": "http://dbpedia.org/resource/EasyJet"
+        },
+        {
+          "name": "Pegasus Airlines",
+          "uri": "http://dbpedia.org/resource/Pegasus_Airlines"
+        },
+        {
+          "name": "Global Crossing Airlines",
+          "uri": "http://dbpedia.org/resource/Global_Crossing_Airlines"
+        },
+        {
+          "name": "Ryanair",
+          "uri": "http://dbpedia.org/resource/Ryanair"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Air Transport",
+          "uri": "http://dbpedia.org/resource/Air_Transport"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Mississauga",
+          "uri": "http://dbpedia.org/resource/Mississauga"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'Canada Jetlines', operating in the Air Transport industry. It is based in Mississauga. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is overdraft protection inquiry. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Avianca' operating in the Air Transport industry, the company called 'EasyJet' operating in the Air Transport industry, the company called 'Pegasus Airlines' operating in the Air Transport industry, the company called 'Global Crossing Airlines' operating in the Air Transport industry, and the company called 'Ryanair' operating in the Air Transport industry. The company's representative is cautious and detail-oriented."
+  },
+  {
+    "name": "Canada Life",
+    "uri": "http://dbpedia.org/resource/Canada_Life",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canada Life",
+          "uri": "http://dbpedia.org/resource/Canada_Life"
+        },
+        {
+          "name": "Power Financial",
+          "uri": "http://dbpedia.org/resource/Power_Financial"
+        },
+        {
+          "name": "Power Corporation of Canada",
+          "uri": "http://dbpedia.org/resource/Power_Corporation_of_Canada"
+        },
+        {
+          "name": "Great-West Lifeco",
+          "uri": "http://dbpedia.org/resource/Great-West_Lifeco"
+        },
+        {
+          "name": "Irish Life",
+          "uri": "http://dbpedia.org/resource/Irish_Life"
+        },
+        {
+          "name": "Manulife",
+          "uri": "http://dbpedia.org/resource/Manulife"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Financial services",
+          "uri": "http://dbpedia.org/resource/Financial_services"
+        },
+        {
+          "name": "Conglomerate (company)",
+          "uri": "http://dbpedia.org/resource/Conglomerate_(company)"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canada Life', operating in the Financial services industry. It has 10500 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is unauthorized withdrawal investigation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Power Financial' operating in the Conglomerate (company) industry, the company called 'Power Corporation of Canada' operating in the Conglomerate (company) industry, the company called 'Great-West Lifeco' operating in the Financial services industry, the company called 'Irish Life' operating in the Financial services industry, and the company called 'Manulife' operating in the Financial services industry. The company's representative is energetic and enthusiastic."
+  },
+  {
+    "name": "Canada Post",
+    "uri": "http://dbpedia.org/resource/Canada_Post",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canada Post",
+          "uri": "http://dbpedia.org/resource/Canada_Post"
+        },
+        {
+          "name": "Purolator Inc.",
+          "uri": "http://dbpedia.org/resource/Purolator_Inc."
+        },
+        {
+          "name": "Russian Post",
+          "uri": "http://dbpedia.org/resource/Russian_Post"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Postal Service",
+          "uri": "http://dbpedia.org/resource/Postal_Service"
+        },
+        {
+          "name": "Courier",
+          "uri": "http://dbpedia.org/resource/Courier"
+        },
+        {
+          "name": "Mail",
+          "uri": "http://dbpedia.org/resource/Mail"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canada Post', operating in the Postal Service industry. It has 70000 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is transaction dispute resolution. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Purolator Inc.' operating in the Courier industry and the company called 'Russian Post' operating in the Mail industry. The company's representative is analytical and data-driven."
+  },
+  {
+    "name": "Canada Steamship Lines",
+    "uri": "http://dbpedia.org/resource/Canada_Steamship_Lines",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canada Steamship Lines",
+          "uri": "http://dbpedia.org/resource/Canada_Steamship_Lines"
+        },
+        {
+          "name": "Davie Shipbuilding",
+          "uri": "http://dbpedia.org/resource/Davie_Shipbuilding"
+        },
+        {
+          "name": "Oldendorff Carriers",
+          "uri": "http://dbpedia.org/resource/Oldendorff_Carriers"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Shipping company",
+          "uri": "http://dbpedia.org/resource/Shipping_company"
+        },
+        {
+          "name": "Shipbuilding",
+          "uri": "http://dbpedia.org/resource/Shipbuilding"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canada Steamship Lines', operating in the Shipping company industry. It has 2000 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is unauthorized withdrawal investigation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Davie Shipbuilding' operating in the Shipbuilding industry and the company called 'Oldendorff Carriers' operating in the Shipping company industry. The company's representative is pessimistic and negative."
+  },
+  {
+    "name": "Canada Trust",
+    "uri": "http://dbpedia.org/resource/Canada_Trust",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canada Trust",
+          "uri": "http://dbpedia.org/resource/Canada_Trust"
+        },
+        {
+          "name": "Shoppers Drug Mart",
+          "uri": "http://dbpedia.org/resource/Shoppers_Drug_Mart"
+        },
+        {
+          "name": "British American Tobacco",
+          "uri": "http://dbpedia.org/resource/British_American_Tobacco"
+        },
+        {
+          "name": "TD Canada Trust",
+          "uri": "http://dbpedia.org/resource/TD_Canada_Trust"
+        },
+        {
+          "name": "Toronto-Dominion Bank",
+          "uri": "http://dbpedia.org/resource/Toronto-Dominion_Bank"
+        },
+        {
+          "name": "Canadian Imperial Bank of Commerce",
+          "uri": "http://dbpedia.org/resource/Canadian_Imperial_Bank_of_Commerce"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Financial services",
+          "uri": "http://dbpedia.org/resource/Financial_services"
+        },
+        {
+          "name": "Retail",
+          "uri": "http://dbpedia.org/resource/Retail"
+        },
+        {
+          "name": "Tobacco industry",
+          "uri": "http://dbpedia.org/resource/Tobacco_industry"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canada Trust', operating in the Financial services industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is unauthorized withdrawal investigation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Shoppers Drug Mart' operating in the Retail industry, the company called 'British American Tobacco' operating in the Tobacco industry industry, the company called 'TD Canada Trust' operating in the Financial services industry, the company called 'Toronto-Dominion Bank' operating in the Financial services industry, and the company called 'Canadian Imperial Bank of Commerce' operating in the Financial services industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "CanadaStays",
+    "uri": "http://dbpedia.org/resource/CanadaStays",
+    "entities": {
+      "companies": [
+        {
+          "name": "CanadaStays",
+          "uri": "http://dbpedia.org/resource/CanadaStays"
+        },
+        {
+          "name": "Expedia Group",
+          "uri": "http://dbpedia.org/resource/Expedia_Group"
+        },
+        {
+          "name": "HomeAway",
+          "uri": "http://dbpedia.org/resource/HomeAway"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Travel",
+          "uri": "http://dbpedia.org/resource/Travel"
+        },
+        {
+          "name": "Travel technology",
+          "uri": "http://dbpedia.org/resource/Travel_technology"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'CanadaStays', operating in the Travel industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is loan application consultation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Expedia Group' operating in the Travel technology industry and the company called 'HomeAway' operating in the Travel industry. The company's representative is impatient and rushed."
+  },
+  {
+    "name": "Canadia Bank",
+    "uri": "http://dbpedia.org/resource/Canadia_Bank",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadia Bank",
+          "uri": "http://dbpedia.org/resource/Canadia_Bank"
+        },
+        {
+          "name": "ANZ Royal Bank",
+          "uri": "http://dbpedia.org/resource/ANZ_Royal_Bank"
+        },
+        {
+          "name": "Maybank",
+          "uri": "http://dbpedia.org/resource/Maybank"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Banking",
+          "uri": "http://dbpedia.org/resource/Banking"
+        },
+        {
+          "name": "Financial services",
+          "uri": "http://dbpedia.org/resource/Financial_services"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadia Bank', operating in the Banking industry. It has 3500 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is international transaction assistance. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'ANZ Royal Bank' operating in the Banking industry and the company called 'Maybank' operating in the Financial services industry. The company's representative is cautious and detail-oriented."
+  },
+  {
+    "name": "Canadian Aeroplanes",
+    "uri": "http://dbpedia.org/resource/Canadian_Aeroplanes",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Aeroplanes",
+          "uri": "http://dbpedia.org/resource/Canadian_Aeroplanes"
+        },
+        {
+          "name": "Curtiss Aeroplane and Motor Company",
+          "uri": "http://dbpedia.org/resource/Curtiss_Aeroplane_and_Motor_Company"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Commercial aviation",
+          "uri": "http://dbpedia.org/resource/Commercial_aviation"
+        },
+        {
+          "name": "Aerospace",
+          "uri": "http://dbpedia.org/resource/Aerospace"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadian Aeroplanes', operating in the Commercial aviation industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is financial planning consultation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Curtiss Aeroplane and Motor Company' operating in the Aerospace industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Canadian Affair",
+    "uri": "http://dbpedia.org/resource/Canadian_Affair",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Affair",
+          "uri": "http://dbpedia.org/resource/Canadian_Affair"
+        },
+        {
+          "name": "Air Transat",
+          "uri": "http://dbpedia.org/resource/Air_Transat"
+        },
+        {
+          "name": "Transat A.T.",
+          "uri": "http://dbpedia.org/resource/Transat_A.T."
+        },
+        {
+          "name": "Celebrity Cruises",
+          "uri": "http://dbpedia.org/resource/Celebrity_Cruises"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Air Transport",
+          "uri": "http://dbpedia.org/resource/Air_Transport"
+        },
+        {
+          "name": "Tour operator",
+          "uri": "http://dbpedia.org/resource/Tour_operator"
+        },
+        {
+          "name": "Transport",
+          "uri": "http://dbpedia.org/resource/Transport"
+        }
+      ],
+      "locations": [
+        {
+          "name": "London",
+          "uri": "http://dbpedia.org/resource/London"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'Canadian Affair', operating in the Air Transport industry. It is based in London. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is account opening inquiry. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Air Transat' operating in the Air Transport industry, the company called 'Transat A.T.' operating in the Tour operator industry, and the company called 'Celebrity Cruises' operating in the Transport industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Canadian Airlines International",
+    "uri": "http://dbpedia.org/resource/Canadian_Airlines_International",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Airlines International",
+          "uri": "http://dbpedia.org/resource/Canadian_Airlines_International"
+        },
+        {
+          "name": "Eastern Provincial Airways",
+          "uri": "http://dbpedia.org/resource/Eastern_Provincial_Airways"
+        },
+        {
+          "name": "Wardair",
+          "uri": "http://dbpedia.org/resource/Wardair"
+        },
+        {
+          "name": "AMR Corporation",
+          "uri": "http://dbpedia.org/resource/AMR_Corporation"
+        },
+        {
+          "name": "American Airlines Group",
+          "uri": "http://dbpedia.org/resource/American_Airlines_Group"
+        },
+        {
+          "name": "Air Canada",
+          "uri": "http://dbpedia.org/resource/Air_Canada"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Air Transport",
+          "uri": "http://dbpedia.org/resource/Air_Transport"
+        },
+        {
+          "name": "Aviation",
+          "uri": "http://dbpedia.org/resource/Aviation"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Calgary, Alberta",
+          "uri": "http://dbpedia.org/resource/Calgary,_Alberta"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'Canadian Airlines International', operating in the Air Transport industry. It is based in Calgary, Alberta. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is balance verification request. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Eastern Provincial Airways' operating in the Air Transport industry, the company called 'Wardair' operating in the Air Transport industry, the company called 'AMR Corporation' operating in the Aviation industry, the company called 'American Airlines Group' operating in the Aviation industry, and the company called 'Air Canada' operating in the Air Transport industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Canadian Airways",
+    "uri": "http://dbpedia.org/resource/Canadian_Airways",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Airways",
+          "uri": "http://dbpedia.org/resource/Canadian_Airways"
+        },
+        {
+          "name": "Canadian Airways",
+          "uri": "http://dbpedia.org/resource/Canadian_Airways"
+        },
+        {
+          "name": "Trans-Canada Air Lines",
+          "uri": "http://dbpedia.org/resource/Trans-Canada_Air_Lines"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Air Transport",
+          "uri": "http://dbpedia.org/resource/Air_Transport"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Ontario",
+          "uri": "http://dbpedia.org/resource/Ontario"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'Canadian Airways', operating in the Air Transport industry. It is based in Ontario. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is international transaction assistance. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Canadian Airways' operating in the Air Transport industry and the company called 'Trans-Canada Air Lines' operating in the Air Transport industry. The company's representative is energetic and enthusiastic."
+  },
+  {
+    "name": "Canadian Airways Congo",
+    "uri": "http://dbpedia.org/resource/Canadian_Airways_Congo",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Airways Congo",
+          "uri": "http://dbpedia.org/resource/Canadian_Airways_Congo"
+        },
+        {
+          "name": "Air Zaïre",
+          "uri": "http://dbpedia.org/resource/Air_Zaïre"
+        },
+        {
+          "name": "Teebah Airlines",
+          "uri": "http://dbpedia.org/resource/Teebah_Airlines"
+        },
+        {
+          "name": "Iraqi Airways",
+          "uri": "http://dbpedia.org/resource/Iraqi_Airways"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Air Transport",
+          "uri": "http://dbpedia.org/resource/Air_Transport"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Brazzaville",
+          "uri": "http://dbpedia.org/resource/Brazzaville"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'Canadian Airways Congo', operating in the Air Transport industry. It is based in Brazzaville. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is foreign currency exchange. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Air Zaïre' operating in the Air Transport industry, the company called 'Teebah Airlines' operating in the Air Transport industry, and the company called 'Iraqi Airways' operating in the Air Transport industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Canadian Associated Aircraft",
+    "uri": "http://dbpedia.org/resource/Canadian_Associated_Aircraft",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Associated Aircraft",
+          "uri": "http://dbpedia.org/resource/Canadian_Associated_Aircraft"
+        },
+        {
+          "name": "Fleet Aircraft",
+          "uri": "http://dbpedia.org/resource/Fleet_Aircraft"
+        },
+        {
+          "name": "Avro Canada",
+          "uri": "http://dbpedia.org/resource/Avro_Canada"
+        },
+        {
+          "name": "Victory Aircraft",
+          "uri": "http://dbpedia.org/resource/Victory_Aircraft"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Aerospace",
+          "uri": "http://dbpedia.org/resource/Aerospace"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadian Associated Aircraft', operating in the Aerospace industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is transaction dispute resolution. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Fleet Aircraft' operating in the Aerospace industry, the company called 'Avro Canada' operating in the Aerospace industry, and the company called 'Victory Aircraft' operating in the Aerospace industry. The company's representative is energetic and enthusiastic."
+  },
+  {
+    "name": "Canadian Bank Note Company",
+    "uri": "http://dbpedia.org/resource/Canadian_Bank_Note_Company",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Bank Note Company",
+          "uri": "http://dbpedia.org/resource/Canadian_Bank_Note_Company"
+        },
+        {
+          "name": "RR Donnelley",
+          "uri": "http://dbpedia.org/resource/RR_Donnelley"
+        },
+        {
+          "name": "Royal Canadian Mint",
+          "uri": "http://dbpedia.org/resource/Royal_Canadian_Mint"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Printing",
+          "uri": "http://dbpedia.org/resource/Printing"
+        },
+        {
+          "name": "Mint (coin)",
+          "uri": "http://dbpedia.org/resource/Mint_(coin)"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadian Bank Note Company', operating in the Printing industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is financial planning consultation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'RR Donnelley' operating in the Printing industry and the company called 'Royal Canadian Mint' operating in the Mint (coin) industry. The company's representative is cautious and detail-oriented."
+  },
+  {
+    "name": "Canadian Bank of Commerce",
+    "uri": "http://dbpedia.org/resource/Canadian_Bank_of_Commerce",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Bank of Commerce",
+          "uri": "http://dbpedia.org/resource/Canadian_Bank_of_Commerce"
+        },
+        {
+          "name": "Imperial Bank of Canada",
+          "uri": "http://dbpedia.org/resource/Imperial_Bank_of_Canada"
+        },
+        {
+          "name": "Bank of British Columbia",
+          "uri": "http://dbpedia.org/resource/Bank_of_British_Columbia"
+        },
+        {
+          "name": "Bank of Canada (commercial)",
+          "uri": "http://dbpedia.org/resource/Bank_of_Canada_(commercial)"
+        },
+        {
+          "name": "Canadian Imperial Bank of Commerce",
+          "uri": "http://dbpedia.org/resource/Canadian_Imperial_Bank_of_Commerce"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Banking",
+          "uri": "http://dbpedia.org/resource/Banking"
+        },
+        {
+          "name": "Bank",
+          "uri": "http://dbpedia.org/resource/Bank"
+        },
+        {
+          "name": "Financial services",
+          "uri": "http://dbpedia.org/resource/Financial_services"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadian Bank of Commerce', operating in the Banking industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is overdraft protection inquiry. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Imperial Bank of Canada' operating in the Bank industry, the company called 'Bank of British Columbia' operating in the Banking industry, the company called 'Bank of Canada (commercial)' operating in the Banking industry, and the company called 'Canadian Imperial Bank of Commerce' operating in the Financial services industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Canadian Breweries",
+    "uri": "http://dbpedia.org/resource/Canadian_Breweries",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Breweries",
+          "uri": "http://dbpedia.org/resource/Canadian_Breweries"
+        },
+        {
+          "name": "Peerless Motor Company",
+          "uri": "http://dbpedia.org/resource/Peerless_Motor_Company"
+        },
+        {
+          "name": "Rothmans International",
+          "uri": "http://dbpedia.org/resource/Rothmans_International"
+        },
+        {
+          "name": "Bass Brewery",
+          "uri": "http://dbpedia.org/resource/Bass_Brewery"
+        },
+        {
+          "name": "Bank of Montreal",
+          "uri": "http://dbpedia.org/resource/Bank_of_Montreal"
+        },
+        {
+          "name": "Labatt Brewing Company",
+          "uri": "http://dbpedia.org/resource/Labatt_Brewing_Company"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Brewing",
+          "uri": "http://dbpedia.org/resource/Brewing"
+        },
+        {
+          "name": "Automotive industry",
+          "uri": "http://dbpedia.org/resource/Automotive_industry"
+        },
+        {
+          "name": "Tobacco industry",
+          "uri": "http://dbpedia.org/resource/Tobacco_industry"
+        },
+        {
+          "name": "Financial services",
+          "uri": "http://dbpedia.org/resource/Financial_services"
+        },
+        {
+          "name": "Alcoholic drink",
+          "uri": "http://dbpedia.org/resource/Alcoholic_drink"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Heaslip House",
+          "uri": "http://dbpedia.org/resource/Heaslip_House"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'Canadian Breweries', operating in the Brewing industry. It is based in Heaslip House. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is international transaction assistance. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Peerless Motor Company' operating in the Automotive industry industry, the company called 'Rothmans International' operating in the Tobacco industry industry, the company called 'Bass Brewery' operating in the Brewing industry, the company called 'Bank of Montreal' operating in the Financial services industry, and the company called 'Labatt Brewing Company' operating in the Alcoholic drink industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Canadian Broadcasting Corporation",
+    "uri": "http://dbpedia.org/resource/Canadian_Broadcasting_Corporation",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Broadcasting Corporation",
+          "uri": "http://dbpedia.org/resource/Canadian_Broadcasting_Corporation"
+        },
+        {
+          "name": "BBC",
+          "uri": "http://dbpedia.org/resource/BBC"
+        },
+        {
+          "name": "ITV Studios",
+          "uri": "http://dbpedia.org/resource/ITV_Studios"
+        },
+        {
+          "name": "Sirius Satellite Radio",
+          "uri": "http://dbpedia.org/resource/Sirius_Satellite_Radio"
+        },
+        {
+          "name": "Air Canada",
+          "uri": "http://dbpedia.org/resource/Air_Canada"
+        },
+        {
+          "name": "Telus",
+          "uri": "http://dbpedia.org/resource/Telus"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Television",
+          "uri": "http://dbpedia.org/resource/Television"
+        },
+        {
+          "name": "Mass media",
+          "uri": "http://dbpedia.org/resource/Mass_media"
+        },
+        {
+          "name": "Radio broadcasting",
+          "uri": "http://dbpedia.org/resource/Radio_broadcasting"
+        },
+        {
+          "name": "Air Transport",
+          "uri": "http://dbpedia.org/resource/Air_Transport"
+        },
+        {
+          "name": "Telecommunication",
+          "uri": "http://dbpedia.org/resource/Telecommunication"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadian Broadcasting Corporation', operating in the Television industry. It has 7444 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is international transaction assistance. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'BBC' operating in the Mass media industry, the company called 'ITV Studios' operating in the Television industry, the company called 'Sirius Satellite Radio' operating in the Radio broadcasting industry, the company called 'Air Canada' operating in the Air Transport industry, and the company called 'Telus' operating in the Telecommunication industry. The company's representative is friendly and personable."
+  },
+  {
+    "name": "Canadian Colonial Airways",
+    "uri": "http://dbpedia.org/resource/Canadian_Colonial_Airways",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Colonial Airways",
+          "uri": "http://dbpedia.org/resource/Canadian_Colonial_Airways"
+        },
+        {
+          "name": "Eastern Air Lines",
+          "uri": "http://dbpedia.org/resource/Eastern_Air_Lines"
+        },
+        {
+          "name": "Canadian Colonial Airways",
+          "uri": "http://dbpedia.org/resource/Canadian_Colonial_Airways"
+        },
+        {
+          "name": "Colonial Airlines (Canada)",
+          "uri": "http://dbpedia.org/resource/Colonial_Airlines_(Canada)"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Air Transport",
+          "uri": "http://dbpedia.org/resource/Air_Transport"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Canada",
+          "uri": "http://dbpedia.org/resource/Canada"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'Canadian Colonial Airways', operating in the Air Transport industry. It is based in Canada. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is overdraft protection inquiry. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Eastern Air Lines' operating in the Air Transport industry, the company called 'Canadian Colonial Airways' operating in the Air Transport industry, and the company called 'Colonial Airlines (Canada)' operating in the Air Transport industry. The company's representative is analytical and data-driven."
+  },
+  {
+    "name": "Canadian Commercial Bank",
+    "uri": "http://dbpedia.org/resource/Canadian_Commercial_Bank",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Commercial Bank",
+          "uri": "http://dbpedia.org/resource/Canadian_Commercial_Bank"
+        },
+        {
+          "name": "Northland Bank",
+          "uri": "http://dbpedia.org/resource/Northland_Bank"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Bank",
+          "uri": "http://dbpedia.org/resource/Bank"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadian Commercial Bank', operating in the Bank industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is business savings account opening. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Northland Bank' operating in the Bank industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Canadian General Electric",
+    "uri": "http://dbpedia.org/resource/Canadian_General_Electric",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian General Electric",
+          "uri": "http://dbpedia.org/resource/Canadian_General_Electric"
+        },
+        {
+          "name": "Woods Motor Vehicle",
+          "uri": "http://dbpedia.org/resource/Woods_Motor_Vehicle"
+        },
+        {
+          "name": "Sylvania Electric Products",
+          "uri": "http://dbpedia.org/resource/Sylvania_Electric_Products"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Electrical industry",
+          "uri": "http://dbpedia.org/resource/Electrical_industry"
+        },
+        {
+          "name": "Automotive industry",
+          "uri": "http://dbpedia.org/resource/Automotive_industry"
+        },
+        {
+          "name": "Electronics",
+          "uri": "http://dbpedia.org/resource/Electronics"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadian General Electric', operating in the Electrical industry industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is business account upgrade. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Woods Motor Vehicle' operating in the Automotive industry industry and the company called 'Sylvania Electric Products' operating in the Electronics industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Canadian Hydro Developers",
+    "uri": "http://dbpedia.org/resource/Canadian_Hydro_Developers",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Hydro Developers",
+          "uri": "http://dbpedia.org/resource/Canadian_Hydro_Developers"
+        },
+        {
+          "name": "TransAlta",
+          "uri": "http://dbpedia.org/resource/TransAlta"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Electricity generation",
+          "uri": "http://dbpedia.org/resource/Electricity_generation"
+        },
+        {
+          "name": "Power generation",
+          "uri": "http://dbpedia.org/resource/Power_generation"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadian Hydro Developers', operating in the Electricity generation industry. It has 150 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is account opening inquiry. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'TransAlta' operating in the Power generation industry. The company's representative is pessimistic and negative."
+  },
+  {
+    "name": "Canadian Imperial Bank of Commerce",
+    "uri": "http://dbpedia.org/resource/Canadian_Imperial_Bank_of_Commerce",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Imperial Bank of Commerce",
+          "uri": "http://dbpedia.org/resource/Canadian_Imperial_Bank_of_Commerce"
+        },
+        {
+          "name": "Loblaws",
+          "uri": "http://dbpedia.org/resource/Loblaws"
+        },
+        {
+          "name": "President's Choice Financial",
+          "uri": "http://dbpedia.org/resource/President's_Choice_Financial"
+        },
+        {
+          "name": "Republic Bank",
+          "uri": "http://dbpedia.org/resource/Republic_Bank"
+        },
+        {
+          "name": "Hines Interests Limited Partnership",
+          "uri": "http://dbpedia.org/resource/Hines_Interests_Limited_Partnership"
+        },
+        {
+          "name": "Hewlett-Packard",
+          "uri": "http://dbpedia.org/resource/Hewlett-Packard"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Banking",
+          "uri": "http://dbpedia.org/resource/Banking"
+        },
+        {
+          "name": "Retail",
+          "uri": "http://dbpedia.org/resource/Retail"
+        },
+        {
+          "name": "Financial services",
+          "uri": "http://dbpedia.org/resource/Financial_services"
+        },
+        {
+          "name": "Real estate",
+          "uri": "http://dbpedia.org/resource/Real_estate"
+        },
+        {
+          "name": "Computer hardware",
+          "uri": "http://dbpedia.org/resource/Computer_hardware"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadian Imperial Bank of Commerce', operating in the Banking industry. It has 45282 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is credit card replacement. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Loblaws' operating in the Retail industry, the company called 'President's Choice Financial' operating in the Financial services industry, the company called 'Republic Bank' operating in the Financial services industry, the company called 'Hines Interests Limited Partnership' operating in the Real estate industry, and the company called 'Hewlett-Packard' operating in the Computer hardware industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Canadian Natural Resources",
+    "uri": "http://dbpedia.org/resource/Canadian_Natural_Resources",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Natural Resources",
+          "uri": "http://dbpedia.org/resource/Canadian_Natural_Resources"
+        },
+        {
+          "name": "Ranger Oil",
+          "uri": "http://dbpedia.org/resource/Ranger_Oil"
+        },
+        {
+          "name": "Anadarko Petroleum",
+          "uri": "http://dbpedia.org/resource/Anadarko_Petroleum"
+        },
+        {
+          "name": "ConocoPhillips",
+          "uri": "http://dbpedia.org/resource/ConocoPhillips"
+        },
+        {
+          "name": "Devon Energy",
+          "uri": "http://dbpedia.org/resource/Devon_Energy"
+        },
+        {
+          "name": "Obsidian Energy",
+          "uri": "http://dbpedia.org/resource/Obsidian_Energy"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Petroleum industry",
+          "uri": "http://dbpedia.org/resource/Petroleum_industry"
+        },
+        {
+          "name": "Petroleum",
+          "uri": "http://dbpedia.org/resource/Petroleum"
+        },
+        {
+          "name": "List of petroleum companies",
+          "uri": "http://dbpedia.org/resource/List_of_petroleum_companies"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadian Natural Resources', operating in the Petroleum industry industry. It has 9709 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is online banking setup. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Ranger Oil' operating in the Petroleum industry, the company called 'Anadarko Petroleum' operating in the Petroleum industry industry, the company called 'ConocoPhillips' operating in the Petroleum industry industry, the company called 'Devon Energy' operating in the Petroleum industry industry, and the company called 'Obsidian Energy' operating in the List of petroleum companies industry. The company's representative is analytical and data-driven."
+  },
+  {
+    "name": "Canadian Niagara Power",
+    "uri": "http://dbpedia.org/resource/Canadian_Niagara_Power",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Niagara Power",
+          "uri": "http://dbpedia.org/resource/Canadian_Niagara_Power"
+        },
+        {
+          "name": "Fortis Inc.",
+          "uri": "http://dbpedia.org/resource/Fortis_Inc."
+        }
+      ],
+      "industries": [
+        {
+          "name": "Electric utility",
+          "uri": "http://dbpedia.org/resource/Electric_utility"
+        },
+        {
+          "name": "Electricity generation",
+          "uri": "http://dbpedia.org/resource/Electricity_generation"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadian Niagara Power', operating in the Electric utility industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is fraud alert activation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Fortis Inc.' operating in the Electricity generation industry. The company's representative is friendly and personable."
+  },
+  {
+    "name": "Canadian North",
+    "uri": "http://dbpedia.org/resource/Canadian_North",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian North",
+          "uri": "http://dbpedia.org/resource/Canadian_North"
+        },
+        {
+          "name": "Air North",
+          "uri": "http://dbpedia.org/resource/Air_North"
+        },
+        {
+          "name": "Calm Air",
+          "uri": "http://dbpedia.org/resource/Calm_Air"
+        },
+        {
+          "name": "Canadian Airlines International",
+          "uri": "http://dbpedia.org/resource/Canadian_Airlines_International"
+        },
+        {
+          "name": "First Air",
+          "uri": "http://dbpedia.org/resource/First_Air"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Air Transport",
+          "uri": "http://dbpedia.org/resource/Air_Transport"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Kanata, Ontario",
+          "uri": "http://dbpedia.org/resource/Kanata,_Ontario"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'Canadian North', operating in the Air Transport industry. It is based in Kanata, Ontario. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is account closure process. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Air North' operating in the Air Transport industry, the company called 'Calm Air' operating in the Air Transport industry, the company called 'Canadian Airlines International' operating in the Air Transport industry, and the company called 'First Air' operating in the Air Transport industry. The company's representative is cautious and detail-oriented."
+  },
+  {
+    "name": "Canadian Oil Companies",
+    "uri": "http://dbpedia.org/resource/Canadian_Oil_Companies",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Oil Companies",
+          "uri": "http://dbpedia.org/resource/Canadian_Oil_Companies"
+        },
+        {
+          "name": "Hudson's Bay Oil and Gas Company",
+          "uri": "http://dbpedia.org/resource/Hudson's_Bay_Oil_and_Gas_Company"
+        },
+        {
+          "name": "Collingwood Shipbuilding",
+          "uri": "http://dbpedia.org/resource/Collingwood_Shipbuilding"
+        },
+        {
+          "name": "Nesbitt, Thomson and Company",
+          "uri": "http://dbpedia.org/resource/Nesbitt,_Thomson_and_Company"
+        },
+        {
+          "name": "Power Corporation of Canada",
+          "uri": "http://dbpedia.org/resource/Power_Corporation_of_Canada"
+        },
+        {
+          "name": "Shell Canada",
+          "uri": "http://dbpedia.org/resource/Shell_Canada"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Petroleum industry",
+          "uri": "http://dbpedia.org/resource/Petroleum_industry"
+        },
+        {
+          "name": "Petroleum",
+          "uri": "http://dbpedia.org/resource/Petroleum"
+        },
+        {
+          "name": "Shipbuilding",
+          "uri": "http://dbpedia.org/resource/Shipbuilding"
+        },
+        {
+          "name": "Financial services",
+          "uri": "http://dbpedia.org/resource/Financial_services"
+        },
+        {
+          "name": "Conglomerate (company)",
+          "uri": "http://dbpedia.org/resource/Conglomerate_(company)"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadian Oil Companies', operating in the Petroleum industry industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is fraud alert activation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Hudson's Bay Oil and Gas Company' operating in the Petroleum industry, the company called 'Collingwood Shipbuilding' operating in the Shipbuilding industry, the company called 'Nesbitt, Thomson and Company' operating in the Financial services industry, the company called 'Power Corporation of Canada' operating in the Conglomerate (company) industry, and the company called 'Shell Canada' operating in the Petroleum industry industry. The company's representative is pessimistic and negative."
+  },
+  {
+    "name": "Canadian Oil Sands",
+    "uri": "http://dbpedia.org/resource/Canadian_Oil_Sands",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Oil Sands",
+          "uri": "http://dbpedia.org/resource/Canadian_Oil_Sands"
+        },
+        {
+          "name": "Ovintiv",
+          "uri": "http://dbpedia.org/resource/Ovintiv"
+        },
+        {
+          "name": "Suncor Energy",
+          "uri": "http://dbpedia.org/resource/Suncor_Energy"
+        },
+        {
+          "name": "Syncrude",
+          "uri": "http://dbpedia.org/resource/Syncrude"
+        },
+        {
+          "name": "PanCanadian Petroleum",
+          "uri": "http://dbpedia.org/resource/PanCanadian_Petroleum"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Energy",
+          "uri": "http://dbpedia.org/resource/Energy"
+        },
+        {
+          "name": "Petroleum industry",
+          "uri": "http://dbpedia.org/resource/Petroleum_industry"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadian Oil Sands', operating in the Energy industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is account closure process. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Ovintiv' operating in the Petroleum industry industry, the company called 'Suncor Energy' operating in the Petroleum industry industry, the company called 'Syncrude' operating in the Petroleum industry industry, and the company called 'PanCanadian Petroleum' operating in the Petroleum industry industry. The company's representative is impatient and rushed."
+  },
+  {
+    "name": "Canadian Pacific Air Lines",
+    "uri": "http://dbpedia.org/resource/Canadian_Pacific_Air_Lines",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Pacific Air Lines",
+          "uri": "http://dbpedia.org/resource/Canadian_Pacific_Air_Lines"
+        },
+        {
+          "name": "Eastern Provincial Airways",
+          "uri": "http://dbpedia.org/resource/Eastern_Provincial_Airways"
+        },
+        {
+          "name": "Air Canada",
+          "uri": "http://dbpedia.org/resource/Air_Canada"
+        },
+        {
+          "name": "Trans Australia Airlines",
+          "uri": "http://dbpedia.org/resource/Trans_Australia_Airlines"
+        },
+        {
+          "name": "United Airlines",
+          "uri": "http://dbpedia.org/resource/United_Airlines"
+        },
+        {
+          "name": "CP Ships",
+          "uri": "http://dbpedia.org/resource/CP_Ships"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Air Transport",
+          "uri": "http://dbpedia.org/resource/Air_Transport"
+        },
+        {
+          "name": "Shipping",
+          "uri": "http://dbpedia.org/resource/Shipping"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Richmond, British Columbia",
+          "uri": "http://dbpedia.org/resource/Richmond,_British_Columbia"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'Canadian Pacific Air Lines', operating in the Air Transport industry. It is based in Richmond, British Columbia. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is international transaction assistance. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Eastern Provincial Airways' operating in the Air Transport industry, the company called 'Air Canada' operating in the Air Transport industry, the company called 'Trans Australia Airlines' operating in the Air Transport industry, the company called 'United Airlines' operating in the Air Transport industry, and the company called 'CP Ships' operating in the Shipping industry. The company's representative is energetic and enthusiastic."
+  },
+  {
+    "name": "Canadian Paediatric Society",
+    "uri": "http://dbpedia.org/resource/Canadian_Paediatric_Society",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Paediatric Society",
+          "uri": "http://dbpedia.org/resource/Canadian_Paediatric_Society"
+        },
+        {
+          "name": "Novartis",
+          "uri": "http://dbpedia.org/resource/Novartis"
+        },
+        {
+          "name": "Pfizer",
+          "uri": "http://dbpedia.org/resource/Pfizer"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Medicine",
+          "uri": "http://dbpedia.org/resource/Medicine"
+        },
+        {
+          "name": "Pharmaceutical industry",
+          "uri": "http://dbpedia.org/resource/Pharmaceutical_industry"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadian Paediatric Society', operating in the Medicine industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is fraud alert activation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Novartis' operating in the Pharmaceutical industry industry and the company called 'Pfizer' operating in the Pharmaceutical industry industry. The company's representative is pessimistic and negative."
+  },
+  {
+    "name": "Canadian Regional Airlines",
+    "uri": "http://dbpedia.org/resource/Canadian_Regional_Airlines",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Regional Airlines",
+          "uri": "http://dbpedia.org/resource/Canadian_Regional_Airlines"
+        },
+        {
+          "name": "Air BC",
+          "uri": "http://dbpedia.org/resource/Air_BC"
+        },
+        {
+          "name": "Air Nova",
+          "uri": "http://dbpedia.org/resource/Air_Nova"
+        },
+        {
+          "name": "Air Ontario",
+          "uri": "http://dbpedia.org/resource/Air_Ontario"
+        },
+        {
+          "name": "Inter-Canadien",
+          "uri": "http://dbpedia.org/resource/Inter-Canadien"
+        },
+        {
+          "name": "Ontario Express",
+          "uri": "http://dbpedia.org/resource/Ontario_Express"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Air Transport",
+          "uri": "http://dbpedia.org/resource/Air_Transport"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Alberta",
+          "uri": "http://dbpedia.org/resource/Alberta"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'Canadian Regional Airlines', operating in the Air Transport industry. It is based in Alberta. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is business account upgrade. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Air BC' operating in the Air Transport industry, the company called 'Air Nova' operating in the Air Transport industry, the company called 'Air Ontario' operating in the Air Transport industry, the company called 'Inter-Canadien' operating in the Air Transport industry, and the company called 'Ontario Express' operating in the Air Transport industry. The company's representative is impatient and rushed."
+  },
+  {
+    "name": "Canadian Solar",
+    "uri": "http://dbpedia.org/resource/Canadian_Solar",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Solar",
+          "uri": "http://dbpedia.org/resource/Canadian_Solar"
+        },
+        {
+          "name": "Sharp Corporation",
+          "uri": "http://dbpedia.org/resource/Sharp_Corporation"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Photovoltaics industry",
+          "uri": "http://dbpedia.org/resource/Photovoltaics_industry"
+        },
+        {
+          "name": "Consumer electronics",
+          "uri": "http://dbpedia.org/resource/Consumer_electronics"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadian Solar', operating in the Photovoltaics industry industry. It has 13478 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is balance verification request. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Sharp Corporation' operating in the Consumer electronics industry. The company's representative is friendly and personable."
+  },
+  {
+    "name": "Canadian Tire",
+    "uri": "http://dbpedia.org/resource/Canadian_Tire",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Tire",
+          "uri": "http://dbpedia.org/resource/Canadian_Tire"
+        },
+        {
+          "name": "Cosworth",
+          "uri": "http://dbpedia.org/resource/Cosworth"
+        },
+        {
+          "name": "Lola Cars",
+          "uri": "http://dbpedia.org/resource/Lola_Cars"
+        },
+        {
+          "name": "Canadian Tire Financial Services",
+          "uri": "http://dbpedia.org/resource/Canadian_Tire_Financial_Services"
+        },
+        {
+          "name": "FGL Sports",
+          "uri": "http://dbpedia.org/resource/FGL_Sports"
+        },
+        {
+          "name": "Helly Hansen",
+          "uri": "http://dbpedia.org/resource/Helly_Hansen"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Retail",
+          "uri": "http://dbpedia.org/resource/Retail"
+        },
+        {
+          "name": "Auto racing",
+          "uri": "http://dbpedia.org/resource/Auto_racing"
+        },
+        {
+          "name": "Financial services",
+          "uri": "http://dbpedia.org/resource/Financial_services"
+        },
+        {
+          "name": "Sports equipment",
+          "uri": "http://dbpedia.org/resource/Sports_equipment"
+        },
+        {
+          "name": "Clothing",
+          "uri": "http://dbpedia.org/resource/Clothing"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadian Tire', operating in the Retail industry. It has 58000 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is business savings account opening. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Cosworth' operating in the Auto racing industry, the company called 'Lola Cars' operating in the Auto racing industry, the company called 'Canadian Tire Financial Services' operating in the Financial services industry, the company called 'FGL Sports' operating in the Sports equipment industry, and the company called 'Helly Hansen' operating in the Clothing industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Canadian Tire Financial Services",
+    "uri": "http://dbpedia.org/resource/Canadian_Tire_Financial_Services",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canadian Tire Financial Services",
+          "uri": "http://dbpedia.org/resource/Canadian_Tire_Financial_Services"
+        },
+        {
+          "name": "Canadian Tire",
+          "uri": "http://dbpedia.org/resource/Canadian_Tire"
+        },
+        {
+          "name": "Assurant",
+          "uri": "http://dbpedia.org/resource/Assurant"
+        },
+        {
+          "name": "Canada Life",
+          "uri": "http://dbpedia.org/resource/Canada_Life"
+        },
+        {
+          "name": "National Bank of Canada",
+          "uri": "http://dbpedia.org/resource/National_Bank_of_Canada"
+        },
+        {
+          "name": "Scotiabank",
+          "uri": "http://dbpedia.org/resource/Scotiabank"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Financial services",
+          "uri": "http://dbpedia.org/resource/Financial_services"
+        },
+        {
+          "name": "Retail",
+          "uri": "http://dbpedia.org/resource/Retail"
+        },
+        {
+          "name": "Insurance",
+          "uri": "http://dbpedia.org/resource/Insurance"
+        },
+        {
+          "name": "Banking",
+          "uri": "http://dbpedia.org/resource/Banking"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canadian Tire Financial Services', operating in the Financial services industry. It has 1400 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is foreign currency exchange. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Canadian Tire' operating in the Retail industry, the company called 'Assurant' operating in the Insurance industry, the company called 'Canada Life' operating in the Financial services industry, the company called 'National Bank of Canada' operating in the Banking industry, and the company called 'Scotiabank' operating in the Financial services industry. The company's representative is energetic and enthusiastic."
+  },
+  {
+    "name": "Canais Globo",
+    "uri": "http://dbpedia.org/resource/Canais_Globo",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canais Globo",
+          "uri": "http://dbpedia.org/resource/Canais_Globo"
+        },
+        {
+          "name": "J&F Investimentos",
+          "uri": "http://dbpedia.org/resource/J&F_Investimentos"
+        },
+        {
+          "name": "Paramount Pictures",
+          "uri": "http://dbpedia.org/resource/Paramount_Pictures"
+        },
+        {
+          "name": "Lojas Americanas",
+          "uri": "http://dbpedia.org/resource/Lojas_Americanas"
+        },
+        {
+          "name": "NET (telecommunications)",
+          "uri": "http://dbpedia.org/resource/NET_(telecommunications)"
+        },
+        {
+          "name": "Grupo RBS",
+          "uri": "http://dbpedia.org/resource/Grupo_RBS"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Interactive Media",
+          "uri": "http://dbpedia.org/resource/Interactive_Media"
+        },
+        {
+          "name": "Conglomerate (company)",
+          "uri": "http://dbpedia.org/resource/Conglomerate_(company)"
+        },
+        {
+          "name": "Film industry",
+          "uri": "http://dbpedia.org/resource/Film_industry"
+        },
+        {
+          "name": "Department Store",
+          "uri": "http://dbpedia.org/resource/Department_Store"
+        },
+        {
+          "name": "Telecommunications",
+          "uri": "http://dbpedia.org/resource/Telecommunications"
+        },
+        {
+          "name": "Publishing",
+          "uri": "http://dbpedia.org/resource/Publishing"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canais Globo', operating in the Interactive Media industry. It has 1480 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is business savings account opening. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'J&F Investimentos' operating in the Conglomerate (company) industry, the company called 'Paramount Pictures' operating in the Film industry industry, the company called 'Lojas Americanas' operating in the Department Store industry, the company called 'NET (telecommunications)' operating in the Telecommunications industry, and the company called 'Grupo RBS' operating in the Publishing industry. The company's representative is energetic and enthusiastic."
+  },
+  {
+    "name": "Canal Digitaal",
+    "uri": "http://dbpedia.org/resource/Canal_Digitaal",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canal Digitaal",
+          "uri": "http://dbpedia.org/resource/Canal_Digitaal"
+        },
+        {
+          "name": "MultiChoice",
+          "uri": "http://dbpedia.org/resource/MultiChoice"
+        },
+        {
+          "name": "Vivendi",
+          "uri": "http://dbpedia.org/resource/Vivendi"
+        },
+        {
+          "name": "SES Astra",
+          "uri": "http://dbpedia.org/resource/SES_Astra"
+        },
+        {
+          "name": "M7 Group",
+          "uri": "http://dbpedia.org/resource/M7_Group"
+        },
+        {
+          "name": "Groupe Canal+",
+          "uri": "http://dbpedia.org/resource/Groupe_Canal+"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Subscription Television",
+          "uri": "http://dbpedia.org/resource/Subscription_Television"
+        },
+        {
+          "name": "Broadcasting",
+          "uri": "http://dbpedia.org/resource/Broadcasting"
+        },
+        {
+          "name": "Media conglomerate",
+          "uri": "http://dbpedia.org/resource/Media_conglomerate"
+        },
+        {
+          "name": "Telecommunications",
+          "uri": "http://dbpedia.org/resource/Telecommunications"
+        },
+        {
+          "name": "Mass media",
+          "uri": "http://dbpedia.org/resource/Mass_media"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canal Digitaal', operating in the Subscription Television industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is business account upgrade. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'MultiChoice' operating in the Broadcasting industry, the company called 'Vivendi' operating in the Media conglomerate industry, the company called 'SES Astra' operating in the Telecommunications industry, the company called 'M7 Group' operating in the Mass media industry, and the company called 'Groupe Canal+' operating in the Mass media industry. The company's representative is pessimistic and negative."
+  },
+  {
+    "name": "Canal Digital",
+    "uri": "http://dbpedia.org/resource/Canal_Digital",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canal Digital",
+          "uri": "http://dbpedia.org/resource/Canal_Digital"
+        },
+        {
+          "name": "NRK",
+          "uri": "http://dbpedia.org/resource/NRK"
+        },
+        {
+          "name": "Eurosport",
+          "uri": "http://dbpedia.org/resource/Eurosport"
+        },
+        {
+          "name": "Telenor",
+          "uri": "http://dbpedia.org/resource/Telenor"
+        },
+        {
+          "name": "C More Entertainment",
+          "uri": "http://dbpedia.org/resource/C_More_Entertainment"
+        },
+        {
+          "name": "RiksTV",
+          "uri": "http://dbpedia.org/resource/RiksTV"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Telecommunication",
+          "uri": "http://dbpedia.org/resource/Telecommunication"
+        },
+        {
+          "name": "Broadcasting",
+          "uri": "http://dbpedia.org/resource/Broadcasting"
+        },
+        {
+          "name": "Broadcasting of sports events",
+          "uri": "http://dbpedia.org/resource/Broadcasting_of_sports_events"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canal Digital', operating in the Telecommunication industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is account closure process. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'NRK' operating in the Broadcasting industry, the company called 'Eurosport' operating in the Broadcasting of sports events industry, the company called 'Telenor' operating in the Telecommunication industry, the company called 'C More Entertainment' operating in the Broadcasting industry, and the company called 'RiksTV' operating in the Telecommunication industry. The company's representative is friendly and personable."
+  },
+  {
+    "name": "Canal+ (Polish TV provider)",
+    "uri": "http://dbpedia.org/resource/Canal+_(Polish_TV_provider)",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canal+ (Polish TV provider)",
+          "uri": "http://dbpedia.org/resource/Canal+_(Polish_TV_provider)"
+        },
+        {
+          "name": "TVN Group",
+          "uri": "http://dbpedia.org/resource/TVN_Group"
+        },
+        {
+          "name": "Vivendi",
+          "uri": "http://dbpedia.org/resource/Vivendi"
+        },
+        {
+          "name": "N (Poland)",
+          "uri": "http://dbpedia.org/resource/N_(Poland)"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Telecommunication",
+          "uri": "http://dbpedia.org/resource/Telecommunication"
+        },
+        {
+          "name": "Mass media",
+          "uri": "http://dbpedia.org/resource/Mass_media"
+        },
+        {
+          "name": "Media conglomerate",
+          "uri": "http://dbpedia.org/resource/Media_conglomerate"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canal+ (Polish TV provider)', operating in the Telecommunication industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is business savings account opening. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'TVN Group' operating in the Mass media industry, the company called 'Vivendi' operating in the Media conglomerate industry, and the company called 'N (Poland)' operating in the Telecommunication industry. The company's representative is impatient and rushed."
+  },
+  {
+    "name": "Canal+ (Spanish TV provider)",
+    "uri": "http://dbpedia.org/resource/Canal+_(Spanish_TV_provider)",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canal+ (Spanish TV provider)",
+          "uri": "http://dbpedia.org/resource/Canal+_(Spanish_TV_provider)"
+        },
+        {
+          "name": "Telefónica",
+          "uri": "http://dbpedia.org/resource/Telefónica"
+        },
+        {
+          "name": "Mediaset España",
+          "uri": "http://dbpedia.org/resource/Mediaset_España"
+        },
+        {
+          "name": "Vivendi",
+          "uri": "http://dbpedia.org/resource/Vivendi"
+        },
+        {
+          "name": "SES Astra",
+          "uri": "http://dbpedia.org/resource/SES_Astra"
+        },
+        {
+          "name": "Groupe Canal+",
+          "uri": "http://dbpedia.org/resource/Groupe_Canal+"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Satellite broadcasting",
+          "uri": "http://dbpedia.org/resource/Satellite_broadcasting"
+        },
+        {
+          "name": "Telecommunication",
+          "uri": "http://dbpedia.org/resource/Telecommunication"
+        },
+        {
+          "name": "Mass media",
+          "uri": "http://dbpedia.org/resource/Mass_media"
+        },
+        {
+          "name": "Media conglomerate",
+          "uri": "http://dbpedia.org/resource/Media_conglomerate"
+        },
+        {
+          "name": "Telecommunications",
+          "uri": "http://dbpedia.org/resource/Telecommunications"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canal+ (Spanish TV provider)', operating in the Satellite broadcasting industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is merchant services setup. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Telefónica' operating in the Telecommunication industry, the company called 'Mediaset España' operating in the Mass media industry, the company called 'Vivendi' operating in the Media conglomerate industry, the company called 'SES Astra' operating in the Telecommunications industry, and the company called 'Groupe Canal+' operating in the Mass media industry. The company's representative is analytical and data-driven."
+  },
+  {
+    "name": "Canalside Studios",
+    "uri": "http://dbpedia.org/resource/Canalside_Studios",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canalside Studios",
+          "uri": "http://dbpedia.org/resource/Canalside_Studios"
+        },
+        {
+          "name": "Microsoft",
+          "uri": "http://dbpedia.org/resource/Microsoft"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Video game industry",
+          "uri": "http://dbpedia.org/resource/Video_game_industry"
+        },
+        {
+          "name": "Information technology",
+          "uri": "http://dbpedia.org/resource/Information_technology"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canalside Studios', operating in the Video game industry industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is mobile banking app troubleshooting. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Microsoft' operating in the Information technology industry. The company's representative is pessimistic and negative."
+  },
+  {
+    "name": "Canara HSBC Life Insurance",
+    "uri": "http://dbpedia.org/resource/Canara_HSBC_Life_Insurance",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canara HSBC Life Insurance",
+          "uri": "http://dbpedia.org/resource/Canara_HSBC_Life_Insurance"
+        },
+        {
+          "name": "South Malabar Gramin Bank",
+          "uri": "http://dbpedia.org/resource/South_Malabar_Gramin_Bank"
+        },
+        {
+          "name": "Punjab National Bank",
+          "uri": "http://dbpedia.org/resource/Punjab_National_Bank"
+        },
+        {
+          "name": "Dhanlaxmi Bank",
+          "uri": "http://dbpedia.org/resource/Dhanlaxmi_Bank"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Life insurance",
+          "uri": "http://dbpedia.org/resource/Life_insurance"
+        },
+        {
+          "name": "Commercial banks",
+          "uri": "http://dbpedia.org/resource/Commercial_banks"
+        },
+        {
+          "name": "Financial services",
+          "uri": "http://dbpedia.org/resource/Financial_services"
+        },
+        {
+          "name": "Financial service",
+          "uri": "http://dbpedia.org/resource/Financial_service"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canara HSBC Life Insurance', operating in the Life insurance industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is transaction dispute resolution. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'South Malabar Gramin Bank' operating in the Commercial banks industry, the company called 'Punjab National Bank' operating in the Financial services industry, and the company called 'Dhanlaxmi Bank' operating in the Financial service industry. The company's representative is analytical and data-driven."
+  },
+  {
+    "name": "Canarias Regional Air",
+    "uri": "http://dbpedia.org/resource/Canarias_Regional_Air",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canarias Regional Air",
+          "uri": "http://dbpedia.org/resource/Canarias_Regional_Air"
+        },
+        {
+          "name": "Air Europa",
+          "uri": "http://dbpedia.org/resource/Air_Europa"
+        },
+        {
+          "name": "Air Europa Express",
+          "uri": "http://dbpedia.org/resource/Air_Europa_Express"
+        },
+        {
+          "name": "Iberia (airline)",
+          "uri": "http://dbpedia.org/resource/Iberia_(airline)"
+        },
+        {
+          "name": "Binter Canarias",
+          "uri": "http://dbpedia.org/resource/Binter_Canarias"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Air Transport",
+          "uri": "http://dbpedia.org/resource/Air_Transport"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Puerto de la Cruz",
+          "uri": "http://dbpedia.org/resource/Puerto_de_la_Cruz"
+        }
+      ]
+    },
+    "prompt": "Consider a company called 'Canarias Regional Air', operating in the Air Transport industry. It is based in Puerto de la Cruz. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is international transaction assistance. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Air Europa' operating in the Air Transport industry, the company called 'Air Europa Express' operating in the Air Transport industry, the company called 'Iberia (airline)' operating in the Air Transport industry, and the company called 'Binter Canarias' operating in the Air Transport industry. The company's representative is cautious and detail-oriented."
+  },
+  {
+    "name": "Canary Wharf Group",
+    "uri": "http://dbpedia.org/resource/Canary_Wharf_Group",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canary Wharf Group",
+          "uri": "http://dbpedia.org/resource/Canary_Wharf_Group"
+        },
+        {
+          "name": "Brookfield Properties",
+          "uri": "http://dbpedia.org/resource/Brookfield_Properties"
+        },
+        {
+          "name": "HSBC",
+          "uri": "http://dbpedia.org/resource/HSBC"
+        },
+        {
+          "name": "Morgan Stanley",
+          "uri": "http://dbpedia.org/resource/Morgan_Stanley"
+        },
+        {
+          "name": "China Investment Corporation",
+          "uri": "http://dbpedia.org/resource/China_Investment_Corporation"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Real estate",
+          "uri": "http://dbpedia.org/resource/Real_estate"
+        },
+        {
+          "name": "Financial services",
+          "uri": "http://dbpedia.org/resource/Financial_services"
+        },
+        {
+          "name": "Institutional investor",
+          "uri": "http://dbpedia.org/resource/Institutional_investor"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canary Wharf Group', operating in the Real estate industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is mobile banking app troubleshooting. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Brookfield Properties' operating in the Real estate industry, the company called 'HSBC' operating in the Financial services industry, the company called 'Morgan Stanley' operating in the Financial services industry, and the company called 'China Investment Corporation' operating in the Institutional investor industry. The company's representative is analytical and data-driven."
+  },
+  {
+    "name": "Canberra Milk",
+    "uri": "http://dbpedia.org/resource/Canberra_Milk",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canberra Milk",
+          "uri": "http://dbpedia.org/resource/Canberra_Milk"
+        },
+        {
+          "name": "Bega Cheese",
+          "uri": "http://dbpedia.org/resource/Bega_Cheese"
+        },
+        {
+          "name": "Bega Dairy & Drinks",
+          "uri": "http://dbpedia.org/resource/Bega_Dairy_&_Drinks"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Retail",
+          "uri": "http://dbpedia.org/resource/Retail"
+        },
+        {
+          "name": "Food processing",
+          "uri": "http://dbpedia.org/resource/Food_processing"
+        },
+        {
+          "name": "Food",
+          "uri": "http://dbpedia.org/resource/Food"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canberra Milk', operating in the Retail industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is merchant services setup. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Bega Cheese' operating in the Food processing industry and the company called 'Bega Dairy & Drinks' operating in the Food industry. The company's representative is analytical and data-driven."
+  },
+  {
+    "name": "CancerVax",
+    "uri": "http://dbpedia.org/resource/CancerVax",
+    "entities": {
+      "companies": [
+        {
+          "name": "CancerVax",
+          "uri": "http://dbpedia.org/resource/CancerVax"
+        },
+        {
+          "name": "Serono",
+          "uri": "http://dbpedia.org/resource/Serono"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Pharmaceutical",
+          "uri": "http://dbpedia.org/resource/Pharmaceutical"
+        },
+        {
+          "name": "Biotechnology",
+          "uri": "http://dbpedia.org/resource/Biotechnology"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'CancerVax', operating in the Pharmaceutical industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is account closure process. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Serono' operating in the Biotechnology industry. The company's representative is friendly and personable."
+  },
+  {
+    "name": "Candescent Films",
+    "uri": "http://dbpedia.org/resource/Candescent_Films",
+    "entities": {
+      "companies": [
+        {
+          "name": "Candescent Films",
+          "uri": "http://dbpedia.org/resource/Candescent_Films"
+        },
+        {
+          "name": "CNN Films",
+          "uri": "http://dbpedia.org/resource/CNN_Films"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Film industry",
+          "uri": "http://dbpedia.org/resource/Film_industry"
+        },
+        {
+          "name": "Film",
+          "uri": "http://dbpedia.org/resource/Film"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Candescent Films', operating in the Film industry industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is fraud alert activation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'CNN Films' operating in the Film industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Candiru (spyware company)",
+    "uri": "http://dbpedia.org/resource/Candiru_(spyware_company)",
+    "entities": {
+      "companies": [
+        {
+          "name": "Candiru (spyware company)",
+          "uri": "http://dbpedia.org/resource/Candiru_(spyware_company)"
+        },
+        {
+          "name": "Microsoft",
+          "uri": "http://dbpedia.org/resource/Microsoft"
+        },
+        {
+          "name": "Kaspersky Lab",
+          "uri": "http://dbpedia.org/resource/Kaspersky_Lab"
+        },
+        {
+          "name": "NSO Group",
+          "uri": "http://dbpedia.org/resource/NSO_Group"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Surveillance",
+          "uri": "http://dbpedia.org/resource/Surveillance"
+        },
+        {
+          "name": "Information technology",
+          "uri": "http://dbpedia.org/resource/Information_technology"
+        },
+        {
+          "name": "Computer software",
+          "uri": "http://dbpedia.org/resource/Computer_software"
+        },
+        {
+          "name": "Technology",
+          "uri": "http://dbpedia.org/resource/Technology"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Candiru (spyware company)', operating in the Surveillance industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is ach payment setup. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Microsoft' operating in the Information technology industry, the company called 'Kaspersky Lab' operating in the Computer software industry, and the company called 'NSO Group' operating in the Technology industry. The company's representative is impatient and rushed."
+  },
+  {
+    "name": "Candlewood Suites",
+    "uri": "http://dbpedia.org/resource/Candlewood_Suites",
+    "entities": {
+      "companies": [
+        {
+          "name": "Candlewood Suites",
+          "uri": "http://dbpedia.org/resource/Candlewood_Suites"
+        },
+        {
+          "name": "TownePlace Suites",
+          "uri": "http://dbpedia.org/resource/TownePlace_Suites"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Hotel",
+          "uri": "http://dbpedia.org/resource/Hotel"
+        },
+        {
+          "name": "Apartment hotel",
+          "uri": "http://dbpedia.org/resource/Apartment_hotel"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Candlewood Suites', operating in the Hotel industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is balance verification request. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'TownePlace Suites' operating in the Apartment hotel industry. The company's representative is friendly and personable."
+  },
+  {
+    "name": "Candriam",
+    "uri": "http://dbpedia.org/resource/Candriam",
+    "entities": {
+      "companies": [
+        {
+          "name": "Candriam",
+          "uri": "http://dbpedia.org/resource/Candriam"
+        },
+        {
+          "name": "New York Life Insurance Company",
+          "uri": "http://dbpedia.org/resource/New_York_Life_Insurance_Company"
+        },
+        {
+          "name": "Dexia",
+          "uri": "http://dbpedia.org/resource/Dexia"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Asset Management",
+          "uri": "http://dbpedia.org/resource/Asset_Management"
+        },
+        {
+          "name": "Annuity (US financial products)",
+          "uri": "http://dbpedia.org/resource/Annuity_(US_financial_products)"
+        },
+        {
+          "name": "Financial services",
+          "uri": "http://dbpedia.org/resource/Financial_services"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Candriam', operating in the Asset Management industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is merchant services setup. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'New York Life Insurance Company' operating in the Annuity (US financial products) industry and the company called 'Dexia' operating in the Financial services industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Candu Energy",
+    "uri": "http://dbpedia.org/resource/Candu_Energy",
+    "entities": {
+      "companies": [
+        {
+          "name": "Candu Energy",
+          "uri": "http://dbpedia.org/resource/Candu_Energy"
+        },
+        {
+          "name": "Atomic Energy of Canada Limited",
+          "uri": "http://dbpedia.org/resource/Atomic_Energy_of_Canada_Limited"
+        },
+        {
+          "name": "SNC-Lavalin",
+          "uri": "http://dbpedia.org/resource/SNC-Lavalin"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Nuclear power",
+          "uri": "http://dbpedia.org/resource/Nuclear_power"
+        },
+        {
+          "name": "Petroleum industry",
+          "uri": "http://dbpedia.org/resource/Petroleum_industry"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Candu Energy', operating in the Nuclear power industry. It has 1400 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is merchant services setup. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Atomic Energy of Canada Limited' operating in the Nuclear power industry and the company called 'SNC-Lavalin' operating in the Petroleum industry industry. The company's representative is cautious and detail-oriented."
+  },
+  {
+    "name": "Canesta",
+    "uri": "http://dbpedia.org/resource/Canesta",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canesta",
+          "uri": "http://dbpedia.org/resource/Canesta"
+        },
+        {
+          "name": "Microsoft",
+          "uri": "http://dbpedia.org/resource/Microsoft"
+        },
+        {
+          "name": "Honda",
+          "uri": "http://dbpedia.org/resource/Honda"
+        },
+        {
+          "name": "PrimeSense",
+          "uri": "http://dbpedia.org/resource/PrimeSense"
+        },
+        {
+          "name": "Venrock",
+          "uri": "http://dbpedia.org/resource/Venrock"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Fabless semiconductor company",
+          "uri": "http://dbpedia.org/resource/Fabless_semiconductor_company"
+        },
+        {
+          "name": "Information technology",
+          "uri": "http://dbpedia.org/resource/Information_technology"
+        },
+        {
+          "name": "Manufacturing",
+          "uri": "http://dbpedia.org/resource/Manufacturing"
+        },
+        {
+          "name": "Fabless manufacturing",
+          "uri": "http://dbpedia.org/resource/Fabless_manufacturing"
+        },
+        {
+          "name": "Venture Capital",
+          "uri": "http://dbpedia.org/resource/Venture_Capital"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canesta', operating in the Fabless semiconductor company industry. It has 60 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is credit card replacement. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Microsoft' operating in the Information technology industry, the company called 'Honda' operating in the Manufacturing industry, the company called 'PrimeSense' operating in the Fabless manufacturing industry, and the company called 'Venrock' operating in the Venture Capital industry. The company's representative is energetic and enthusiastic."
+  },
+  {
+    "name": "Canfor",
+    "uri": "http://dbpedia.org/resource/Canfor",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canfor",
+          "uri": "http://dbpedia.org/resource/Canfor"
+        },
+        {
+          "name": "Western Forest Products",
+          "uri": "http://dbpedia.org/resource/Western_Forest_Products"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Forest product",
+          "uri": "http://dbpedia.org/resource/Forest_product"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canfor', operating in the Forest product industry. It has 7391 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is business account upgrade. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Western Forest Products' operating in the Forest product industry. The company's representative is nervous and hesitant."
+  },
+  {
+    "name": "Canica",
+    "uri": "http://dbpedia.org/resource/Canica",
+    "entities": {
+      "companies": [
+        {
+          "name": "Canica",
+          "uri": "http://dbpedia.org/resource/Canica"
+        },
+        {
+          "name": "Steen & Strøm",
+          "uri": "http://dbpedia.org/resource/Steen_&_Strøm"
+        },
+        {
+          "name": "Ignis Asset Management",
+          "uri": "http://dbpedia.org/resource/Ignis_Asset_Management"
+        },
+        {
+          "name": "Komplett",
+          "uri": "http://dbpedia.org/resource/Komplett"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Holding company",
+          "uri": "http://dbpedia.org/resource/Holding_company"
+        },
+        {
+          "name": "Real estate",
+          "uri": "http://dbpedia.org/resource/Real_estate"
+        },
+        {
+          "name": "Financial services",
+          "uri": "http://dbpedia.org/resource/Financial_services"
+        },
+        {
+          "name": "E-Commerce",
+          "uri": "http://dbpedia.org/resource/E-Commerce"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Canica', operating in the Holding company industry. It has 18 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is fraud alert activation. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Steen & Strøm' operating in the Real estate industry, the company called 'Ignis Asset Management' operating in the Financial services industry, and the company called 'Komplett' operating in the E-Commerce industry. The company's representative is pessimistic and negative."
+  },
+  {
+    "name": "Cannes Mandelieu Space Center",
+    "uri": "http://dbpedia.org/resource/Cannes_Mandelieu_Space_Center",
+    "entities": {
+      "companies": [
+        {
+          "name": "Cannes Mandelieu Space Center",
+          "uri": "http://dbpedia.org/resource/Cannes_Mandelieu_Space_Center"
+        },
+        {
+          "name": "Thales Alenia Space",
+          "uri": "http://dbpedia.org/resource/Thales_Alenia_Space"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Aerospace",
+          "uri": "http://dbpedia.org/resource/Aerospace"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'Cannes Mandelieu Space Center', operating in the Aerospace industry. It has 1950 employees. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is international transaction assistance. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Thales Alenia Space' operating in the Aerospace industry. The company's representative is cautious and detail-oriented."
+  },
+  {
+    "name": "CanniMed",
+    "uri": "http://dbpedia.org/resource/CanniMed",
+    "entities": {
+      "companies": [
+        {
+          "name": "CanniMed",
+          "uri": "http://dbpedia.org/resource/CanniMed"
+        },
+        {
+          "name": "Aurora Cannabis",
+          "uri": "http://dbpedia.org/resource/Aurora_Cannabis"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Medical Cannabis",
+          "uri": "http://dbpedia.org/resource/Medical_Cannabis"
+        },
+        {
+          "name": "Cannabis industry",
+          "uri": "http://dbpedia.org/resource/Cannabis_industry"
+        }
+      ],
+      "locations": []
+    },
+    "prompt": "Consider a company called 'CanniMed', operating in the Medical Cannabis industry. Write a long dialogue between a company's representative and a bank customer support. The main topic of the dialog is merchant services setup. The dialogue should reflect the industry the company operates in, where the company is based, and the size of the company. The dialog should also mention the company called 'Aurora Cannabis' operating in the Cannabis industry industry. The company's representative is pessimistic and negative."
+  }
+]

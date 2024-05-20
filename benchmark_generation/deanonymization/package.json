@@ -1,0 +1,8 @@
+{
+  "name": "egrul-based-synthetic-dialogs",
+  "author": "Alik Kirillovich <alik.kirillovich@gmail.com>",
+  "dependencies": {
+    "yargs": "*",
+    "papaparse": "*"
+  }
+}
