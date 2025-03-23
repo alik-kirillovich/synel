@@ -1,0 +1,31 @@
+Companies: 
+True positive: 2070
+False positive: 13
+False negative: 17
+Recall: 0.992
+Precision: 0.994
+F1: 0.993
+
+Industries: 
+True positive: 1113
+False positive: 45
+False negative: 117
+Recall: 0.905
+Precision: 0.961
+F1: 0.932
+
+Locations: 
+True positive: 48
+False positive: 0
+False negative: 9
+Recall: 0.842
+Precision: 1
+F1: 0.914
+
+All:
+True positive: 3231
+False positive: 58
+False negative: 143
+Recall: 0.958
+Precision: 0.982
+F1: 0.97
